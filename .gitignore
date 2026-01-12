@@ -1,0 +1,21 @@
+# 忽略 PCL2 启动器自身的设置和账号
+/PCL/
+/Pcl.config
+/Pcl.pdata
+
+# 忽略游戏运行产生的临时记录
+**/logs/
+**/crash-reports/
+**/webcache*/
+**/asm/
+*.log
+*.lck
+**/session.lock
+
+# 忽略资源库
+.minecraft/assets/
+.minecraft/libraries/
+
+# 忽略 Fabric 运行时生成的缓存
+**/.fabric/
+**/remappedJars/

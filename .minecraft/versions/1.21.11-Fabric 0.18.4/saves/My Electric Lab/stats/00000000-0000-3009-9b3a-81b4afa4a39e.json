@@ -1,0 +1,54 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:chicken": 1,
+      "minecraft:cow": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:redstone_torch": 2,
+      "minecraft:feather": 2,
+      "minecraft:lever": 1,
+      "minecraft:chicken": 1,
+      "minecraft:beef": 3
+    },
+    "minecraft:used": {
+      "minecraft:grass_block": 16,
+      "minecraft:repeater": 14,
+      "minecraft:lever": 49,
+      "minecraft:redstone_block": 9,
+      "minecraft:netherite_sword": 4,
+      "minecraft:redstone": 243,
+      "minecraft:pink_wool": 21,
+      "minecraft:cherry_sign": 17,
+      "minecraft:comparator": 25,
+      "minecraft:redstone_lamp": 17,
+      "minecraft:sticky_piston": 1,
+      "minecraft:pink_bed": 1,
+      "minecraft:redstone_torch": 42,
+      "minecraft:command_block": 1,
+      "minecraft:dirt": 8,
+      "minecraft:bedrock": 5
+    },
+    "minecraft:dropped": {
+      "minecraft:lever": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 169,
+      "minecraft:walk_one_cm": 188064,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_taken": 960,
+      "minecraft:damage_dealt": 300,
+      "minecraft:play_time": 88292,
+      "minecraft:jump": 112,
+      "minecraft:time_since_death": 142,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 8276,
+      "minecraft:total_world_time": 90889,
+      "minecraft:fly_one_cm": 78918,
+      "minecraft:sneak_time": 91,
+      "minecraft:deaths": 10
+    }
+  },
+  "DataVersion": 4671
+}

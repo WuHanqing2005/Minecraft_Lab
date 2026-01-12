@@ -1,0 +1,8 @@
+/kill wuhanqing
+/give wuhanqing minecraft:command_block
+/kill @a
+/kill @s
+/kill @r
+/kill @p
+/kill @r
+/kill @e
