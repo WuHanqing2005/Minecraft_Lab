@@ -6,3 +6,28 @@
 /kill @p
 /kill @r
 /kill @e
+/time set midnight
+/
+/time set midnight
+/xp add wuhanqing
+/xp add @s 10000
+/xp add wuhanqing 10000000000000
+/xp add wuhanqing 100000000
+/damage wuhanqing 1
+/damage @e 1
+/damage @e[advancements=1] 1
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/kill @p
+/kill @e
+/

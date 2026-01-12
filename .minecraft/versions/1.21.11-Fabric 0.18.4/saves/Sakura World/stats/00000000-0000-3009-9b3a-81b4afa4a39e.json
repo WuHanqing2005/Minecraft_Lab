@@ -1,0 +1,71 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:skeleton": 1,
+      "minecraft:bee": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:pointed_dripstone": 1,
+      "minecraft:pink_petals": 8
+    },
+    "minecraft:used": {
+      "minecraft:wooden_axe": 3,
+      "minecraft:crafting_table": 1,
+      "minecraft:pink_petals": 5,
+      "minecraft:pointed_dripstone": 19,
+      "minecraft:wooden_shovel": 1,
+      "minecraft:cherry_sapling": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 9,
+      "minecraft:tall_grass": 3,
+      "minecraft:bee_nest": 3,
+      "minecraft:pointed_dripstone": 1,
+      "minecraft:cherry_log": 7,
+      "minecraft:cherry_leaves": 1,
+      "minecraft:pink_petals": 3,
+      "minecraft:glow_lichen": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 16,
+      "minecraft:wooden_axe": 2,
+      "minecraft:wooden_sword": 2,
+      "minecraft:cherry_planks": 28,
+      "minecraft:wooden_shovel": 2,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 73,
+      "minecraft:walk_one_cm": 74930,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_taken": 2710,
+      "minecraft:play_time": 24220,
+      "minecraft:damage_dealt": 809,
+      "minecraft:jump": 356,
+      "minecraft:time_since_death": 50,
+      "minecraft:drop": 4,
+      "minecraft:sprint_one_cm": 42846,
+      "minecraft:open_chest": 1,
+      "minecraft:fall_one_cm": 28107,
+      "minecraft:total_world_time": 25633,
+      "minecraft:fly_one_cm": 112223,
+      "minecraft:sneak_time": 210,
+      "minecraft:deaths": 15
+    },
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 1,
+      "minecraft:enderman": 1,
+      "minecraft:bee": 1,
+      "minecraft:zombie": 4
+    },
+    "minecraft:picked_up": {
+      "minecraft:pointed_dripstone": 18,
+      "minecraft:cherry_sapling": 2,
+      "minecraft:cherry_log": 7,
+      "minecraft:pink_petals": 8
+    }
+  },
+  "DataVersion": 4671
+}
