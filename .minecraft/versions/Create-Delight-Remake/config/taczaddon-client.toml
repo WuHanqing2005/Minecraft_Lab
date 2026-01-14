@@ -1,0 +1,27 @@
+
+["Melee Setting"]
+	#列表里的枪械会作为近战武器使用，开火将被替换为近战攻击。你可以按F3+H打开高级提示框，查看物品的GunId标签，就像示例的那样。
+	MeleeWeaponList = ["tacz:type_82", "tacz:type_83"]
+
+["Camera Setting"]
+	#开启后，如果正处于非第一人称视角，使用枪械瞄准将自动切换为第一人称，取消瞄准后切换为原视角。
+	enableBetterAimCamera = true
+
+["GunSmithTable Setting"]
+	#开启后，持枪与枪械工作台互动将只显示可用配件和弹药。
+	enableRecipeFilter = true
+	#开启后，在枪械工作台制造东西时会弹出相关物品提示。
+	enableCraftToast = true
+	#开启后，打开枪械工作台时将会跳转到上次浏览的位置。
+	enableMemory = true
+	#开启后，使用枪械工作台制作东西时将读取周边容器的物品。
+	enableContainerReader = true
+	#在这里填入正整数，即制作东西时按住SHIFT会批量制作的次数。
+	enableMassCraftTime = 4
+
+["Attachment Setting"]
+	#在这里填入正整数，即对配件按shift时显示的适用枪械数量。
+	enableLessAllowGun = 16
+	#开启后，配件将显示详细数值。
+	enableAttachmentDetail = true
+

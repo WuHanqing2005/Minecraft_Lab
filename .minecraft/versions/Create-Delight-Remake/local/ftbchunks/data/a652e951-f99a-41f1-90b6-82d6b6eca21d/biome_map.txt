@@ -1,0 +1,15 @@
+#6F6 minecraft:badlands
+#184 terralith:brushland
+#4DB terralith:cave/fungal_caves
+#460 minecraft:cherry_grove
+#34D minecraft:deep_lukewarm_ocean
+#614 minecraft:eroded_badlands
+#010 minecraft:forest
+#5E2 terralith:forested_highlands
+#38F terralith:granite_cliffs
+#4A3 terralith:painted_mountains
+#5FF minecraft:river
+#67B minecraft:savanna
+#4C8 terralith:shield
+#2B7 minecraft:warm_ocean
+#531 terralith:warm_river

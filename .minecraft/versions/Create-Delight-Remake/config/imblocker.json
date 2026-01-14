@@ -1,0 +1,37 @@
+{
+  "basicSettings": {
+    "screenWhitelist": [
+      "net.minecraft.client.gui.screens.inventory.BookEditScreen",
+      "net.minecraft.client.gui.screens.inventory.SignEditScreen",
+      "net.minecraft.client.gui.screens.inventory.HangingSignEditScreen",
+      "journeymap.client.ui.waypoint.WaypointEditor",
+      "com.ldtteam.blockout.BOScreen",
+      "dev.ftb.mods.ftblibrary.ui.ScreenWrapper",
+      "minecraft:net.minecraft.client.gui.screens.ChatScreen",
+      "net.mehvahdjukaar.supplementaries.client.screens.TextHolderEditScreen",
+      "net.minecraft.client.gui.screens.inventory.AbstractSignEditScreen",
+      "com.simibubi.create.content.equipment.clipboard.ClipboardScreen",
+      "com.sighs.generalfeedback.client.FeedbackScreen"
+    ],
+    "enableScreenRecovering": false,
+    "recoveredScreens": [],
+    "englishStateImpl": "CONVERSION_STATUS",
+    "primaryEnglishState": "CJK"
+  },
+  "advanceSettings": {
+    "enableCharSimulation": false
+  },
+  "windowsCompatibilitySettings": {
+    "enableConversionStatusApi": true,
+    "enableCursorPositionTracking": true,
+    "enableCompositionFontTweaks": true
+  },
+  "linuxCompatibilitySettings": {
+    "enableKeyboardPatch": true,
+    "ibusOnArgName": "libpinyin",
+    "ibusOffArgName": "xkb:us::eng",
+    "fcitx5OnArgName": "-o",
+    "fcitx5OffArgName": "-c",
+    "fcitx5OnStateName": "2"
+  }
+}

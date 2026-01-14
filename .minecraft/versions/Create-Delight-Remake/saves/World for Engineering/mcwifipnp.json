@@ -1,0 +1,15 @@
+{
+  "port": 25565,
+  "maxPlayers": 8,
+  "GameMode": "survival",
+  "motd": "局域网世界",
+  "AllPlayersCheats": true,
+  "Whitelist": false,
+  "UseUPnP": true,
+  "AllowCommands": true,
+  "OnlineMode": false,
+  "EnableUUIDFixer": false,
+  "ForceOfflinePlayers": [],
+  "PvP": true,
+  "CopyToClipboard": true
+}
