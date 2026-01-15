@@ -444,3 +444,9 @@
 [19:43:34.209] <主线程> [Control] 按下图标按钮：BtnTitleInner
 [19:43:34.211] <主线程> [Control] 切换主要页面：Launch, -1
 [19:43:34.325] <主线程> [Minecraft] 启动按钮：Minecraft 版本：D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\
+[19:47:06.788] <Minecraft Watcher PID 3152> [Launch] [3152] Minecraft 已退出，返回值：0
+[19:47:06.788] <Minecraft Watcher PID 3152> [Launch] [全局] 已无运行中的 Minecraft
+[19:47:07.027] <Minecraft Watcher PID 3152> [Launch] [3152] Minecraft 日志监控已退出
+[19:47:07.497] <主线程> [Control] 按下图标按钮：BtnTitleClose
+[19:47:07.505] <主线程> [System] 收到关闭指令
+[19:47:07.757] <主线程> [System] 程序已退出，返回值：Success

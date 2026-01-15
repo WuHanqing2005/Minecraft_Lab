@@ -4823,3 +4823,103 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [151月2026 19:39:35.144] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 231 advancements
 [151月2026 19:40:34.404] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 233 advancements
 [151月2026 19:42:05.267] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 259 advancements
+[151月2026 19:47:02.638] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero hud session finalized.
+[151月2026 19:47:02.638] [Render thread/INFO] [xaero.map.WorldMap/]: Finalizing world map session...
+[151月2026 19:47:02.679] [Thread-53/INFO] [xaero.map.WorldMap/]: World map cleaned normally!
+[151月2026 19:47:02.929] [Render thread/INFO] [xaero.map.WorldMap/]: World map session finalized.
+[151月2026 19:47:02.929] [Render thread/INFO] [com.seibel.distanthorizons.core.api.internal.ClientApi/]: Client on ClientOnly mode disconnecting.
+[151月2026 19:47:02.929] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.world.AbstractDhWorld/]: Unloading level [World_for_Engineering_s634v8u8aan7i@minecraft:overworld].
+[151月2026 19:47:02.929] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.level.ClientLevelModule$ClientRenderState/]: Shutting down ClientRenderState
+[151月2026 19:47:02.929] [Render thread/INFO] [com.seibel.distanthorizons.core.render.renderer.LodRenderer/]: Shutting down LodRenderer...
+[151月2026 19:47:02.929] [Render thread/INFO] [com.seibel.distanthorizons.core.render.renderer.LodRenderer/]: Queuing Renderer Cleanup for main render thread
+[151月2026 19:47:02.929] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.render.LodQuadTree/]: Shutting down LodQuadTree...
+[151月2026 19:47:02.929] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.render.LodQuadTree/]: Finished shutting down LodQuadTree
+[151月2026 19:47:02.929] [Render thread/INFO] [com.seibel.distanthorizons.core.render.renderer.LodRenderer/]: Finished shutting down LodRenderer
+[151月2026 19:47:02.929] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.render.LodQuadTree/]: Shutting down LodQuadTree...
+[151月2026 19:47:02.929] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.render.LodQuadTree/]: Finished shutting down LodQuadTree
+[151月2026 19:47:02.930] [DH-Cleanup Thread[0]/INFO] [DistantHorizons-com.seibel.distanthorizons.core.render.LodQuadTree/]: waiting for [0] futures before closing render cache...
+[151月2026 19:47:02.931] [DH-Cleanup Thread[0]/INFO] [DistantHorizons-com.seibel.distanthorizons.core.render.LodQuadTree/]: waiting for [0] futures before closing render cache...
+[151月2026 19:47:03.131] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.file.AbstractDataSourceHandler/]: Closing [RemoteFullDataSourceProvider] for level: [DhClientLevel{World_for_Engineering_s634v8u8aan7i@minecraft:overworld}].
+[151月2026 19:47:03.131] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.FullDataSourceProviderV1/]: Closing [FullDataSourceProviderV1] for level: [DhClientLevel{World_for_Engineering_s634v8u8aan7i@minecraft:overworld}].
+[151月2026 19:47:03.131] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.sql.repo.AbstractDhRepo/]: Closing database connection: [jdbc:dh_sqlite:D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\Distant_Horizons_server_data\WuHanqing%27s+Server\World_for_Engineering_s634v8u8aan7i@minecraft@@overworld\DistantHorizons.sqlite]...
+[151月2026 19:47:03.131] [DH-Parent Update Queue [World_for_Engineering_s634v8u8aan7i@minecraft:overworld] Thread[0]/INFO] [DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.FullDataSourceProviderV2/]: Update thread [DH-Parent Update Queue [World_for_Engineering_s634v8u8aan7i@minecraft:overworld] Thread[0]] terminated.
+[151月2026 19:47:03.148] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.sql.repo.AbstractDhRepo/]: Finished closing database connection: [jdbc:dh_sqlite:D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\Distant_Horizons_server_data\WuHanqing%27s+Server\World_for_Engineering_s634v8u8aan7i@minecraft@@overworld\DistantHorizons.sqlite]
+[151月2026 19:47:03.149] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.level.DhClientLevel/]: Closed [DhClientLevel] for [Wrapped{ClientLevel@World_for_Engineering_s634v8u8aan7i@minecraft:overworld}]
+[151月2026 19:47:03.149] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.world.AbstractDhWorld/]: Closed DhWorld of type [CLIENT_ONLY].
+[151月2026 19:47:03.149] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.world.AbstractDhWorld/]: Closed DhWorld of type [CLIENT_ONLY].
+[151月2026 19:47:03.149] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.util.threading.PriorityTaskPicker/]: Shutting down PriorityTaskPicker thread pool...
+[151月2026 19:47:03.150] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.sql.repo.AbstractDhRepo/]: Closing all [0] database connections...
+[151月2026 19:47:03.719] [Render thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Removed all overlays.
+[151月2026 19:47:03.720] [Render thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All events have been closed.
+[151月2026 19:47:03.720] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[151月2026 19:47:03.720] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[151月2026 19:47:03.720] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[151月2026 19:47:03.720] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[151月2026 19:47:03.721] [Render thread/INFO] [mezz.jei.forge.plugins.forge.ForgeGuiPlugin/]: Stopping JEI GUI
+[151月2026 19:47:03.723] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 3.281 ms
+[151月2026 19:47:03.724] [Render thread/INFO] [Framework/]: Unloading synced configs from server
+[151月2026 19:47:03.724] [Render thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[151月2026 19:47:03.734] [Render thread/INFO] [DistantHorizons-com.seibel.distanthorizons.forge.ForgeClientProxy/]: level unload
+[151月2026 19:47:03.734] [Render thread/INFO] [com.seibel.distanthorizons.core.api.internal.ClientApi/]: Unloading client level [ServerKeyedClientLevel]-[World_for_Engineering_s634v8u8aan7i@minecraft:overworld].
+[151月2026 19:47:03.883] [Render thread/INFO] [ChunkBuilder/]: Stopping worker threads
+[151月2026 19:47:03.903] [Thread-126/ERROR] [de.keksuccino.fancymenu.customization.element.elements.playerentity.textures.SkinResourceSupplier/]: [FANCYMENU] SkinResourceSupplier failed to get URL of player skin: wuhanqing
+java.io.IOException: null
+	at de.keksuccino.fancymenu.customization.element.elements.playerentity.textures.SkinResourceSupplier.lambda$downloadPlayerNameSkinMetadata$0(SkinResourceSupplier.java:188) ~[fancymenu_forge_3.7.0_MC_1.20.1.jar%23635!/:3.7.0]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[151月2026 19:47:04.797] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: generic_dirt_message_screen
+[151月2026 19:47:04.800] [CullThread/INFO] [STDOUT/]: [dev.tr7zw.entityculling.CullTask:run:90]: Shutting down culling task!
+[151月2026 19:47:04.814] [Render thread/INFO] [IAS/]: IAS: Closing IAS...
+[151月2026 19:47:04.814] [Render thread/INFO] [IAS/]: IAS: Shutting down IAS executor...
+[151月2026 19:47:04.815] [Render thread/INFO] [IAS/]: IAS: IAS executor shut down.
+[151月2026 19:47:04.818] [Render thread/INFO] [IAS/]: IAS: IAS has been unloaded.
+[151月2026 19:47:04.823] [Thread-128/ERROR] [de.keksuccino.fancymenu.customization.element.elements.playerentity.textures.SkinResourceSupplier/]: [FANCYMENU] SkinResourceSupplier failed to get URL of player skin: wuhanqing
+java.io.IOException: null
+	at de.keksuccino.fancymenu.customization.element.elements.playerentity.textures.SkinResourceSupplier.lambda$downloadPlayerNameSkinMetadata$0(SkinResourceSupplier.java:188) ~[fancymenu_forge_3.7.0_MC_1.20.1.jar%23635!/:3.7.0]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[151月2026 19:47:04.848] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[151月2026 19:47:04.848] [Render thread/INFO] [DragonLib/]: Stopping DragonLib Network Manager (Client) worker thread...
+[151月2026 19:47:04.864] [DragonLib Network Manager (Client)/INFO] [DragonLib/]: DragonLib Network Manager (Client) worker thread has been stopped!
+[151月2026 19:47:04.865] [Render thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Removed all overlays.
+[151月2026 19:47:04.865] [Render thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All events have been closed.
+[151月2026 19:47:04.866] [Render thread/WARN] [ModernUI/MessageQueue]: Handler (icyllis.modernui.core.Handler) {4134a23f} sending message to a Handler on a dead thread
+java.lang.IllegalStateException: Handler (icyllis.modernui.core.Handler) {4134a23f} sending message to a Handler on a dead thread
+	at icyllis.modernui.core.MessageQueue.enqueueMessage(MessageQueue.java:391) ~[ModernUI-Forge-1.20.1-3.12.0.1-universal.jar%23720!/:1.20.1-3.12.0.1]
+	at icyllis.modernui.core.Handler.enqueueMessage(Handler.java:496) ~[ModernUI-Forge-1.20.1-3.12.0.1-universal.jar%23720!/:1.20.1-3.12.0.1]
+	at icyllis.modernui.core.Handler.sendMessageAtTime(Handler.java:472) ~[ModernUI-Forge-1.20.1-3.12.0.1-universal.jar%23720!/:1.20.1-3.12.0.1]
+	at icyllis.modernui.core.Handler.sendMessageDelayed(Handler.java:450) ~[ModernUI-Forge-1.20.1-3.12.0.1-universal.jar%23720!/:1.20.1-3.12.0.1]
+	at icyllis.modernui.core.Handler.post(Handler.java:252) ~[ModernUI-Forge-1.20.1-3.12.0.1-universal.jar%23720!/:1.20.1-3.12.0.1]
+	at icyllis.modernui.mc.UIManager.resize(UIManager.java:1001) ~[ModernUI-Forge-1.20.1-3.12.0.1-universal.jar%23720!/:1.20.1-3.12.0.1]
+	at icyllis.modernui.mc.UIManager.lambda$new$2(UIManager.java:187) ~[ModernUI-Forge-1.20.1-3.12.0.1-universal.jar%23720!/:1.20.1-3.12.0.1]
+	at icyllis.modernui.mc.MuiModApi.dispatchOnWindowResize(MuiModApi.java:503) ~[ModernUI-Forge-1.20.1-3.12.0.1-universal.jar%23720!/:1.20.1-3.12.0.1]
+	at com.mojang.blaze3d.platform.Window.handler$fnd000$onSetGuiScale(Window.java:603) ~[client-1.20.1-20230612.114412-srg.jar%23832!/:?]
+	at com.mojang.blaze3d.platform.Window.m_85378_(Window.java) ~[client-1.20.1-20230612.114412-srg.jar%23832!/:?]
+	at de.keksuccino.fancymenu.util.rendering.RenderingUtils.resetGuiScale(RenderingUtils.java:246) ~[fancymenu_forge_3.7.0_MC_1.20.1.jar%23635!/:3.7.0]
+	at net.minecraft.client.Minecraft.handler$dho000$before_setScreen_FancyMenu(Minecraft.java:16538) ~[client-1.20.1-20230612.114412-srg.jar%23832!/:?]
+	at net.minecraft.client.Minecraft.m_91152_(Minecraft.java) ~[client-1.20.1-20230612.114412-srg.jar%23832!/:?]
+	at net.minecraft.client.Minecraft.m_91362_(Minecraft.java:2140) ~[client-1.20.1-20230612.114412-srg.jar%23832!/:?]
+	at net.minecraft.client.Minecraft.m_91320_(Minecraft.java:2110) ~[client-1.20.1-20230612.114412-srg.jar%23832!/:?]
+	at net.minecraft.client.Minecraft.m_91399_(Minecraft.java:2089) ~[client-1.20.1-20230612.114412-srg.jar%23832!/:?]
+	at net.minecraft.client.Minecraft.m_91393_(Minecraft.java:1035) ~[client-1.20.1-20230612.114412-srg.jar%23832!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:234) ~[Create-Delight-Remake.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.10.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.4.10.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.4.10.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:112) ~[?:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:105) ~[?:?]
+[151月2026 19:47:05.727] [Render thread/INFO] [FTB Chunks/]: Shutting down map thread
