@@ -1,0 +1,281 @@
+[00:00:03] [Render thread/INFO]: [System] [CHAT] 成功设置命令：/attribute wuhanqing minecraft:attack_knockback
+[00:00:06] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:00:06] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:00:09] [Server thread/INFO]: Saving and pausing game...
+[00:00:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:overworld
+[00:00:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_nether
+[00:00:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_end
+[00:00:21] [Render thread/INFO]: [System] [CHAT] 成功设置命令：/damage wuhanqing 1
+[00:00:24] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:00:24] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:00:28] [Render thread/INFO]: [System] [CHAT] 对象免疫指定的伤害类型
+[00:00:30] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:00:30] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:00:33] [Server thread/INFO]: Saving and pausing game...
+[00:00:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:overworld
+[00:00:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_nether
+[00:00:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_end
+[00:00:42] [Render thread/INFO]: [System] [CHAT] 成功设置命令：/damage @e 1
+[00:00:46] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:00:46] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:00:52] [Render thread/INFO]: [System] [CHAT] 只允许一个实体，但提供的选择器允许多个实体
+[00:00:52] [Render thread/INFO]: [System] [CHAT] damage @e 1<--[此处]
+[00:00:53] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:00:53] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:00:59] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:00:59] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:01:06] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:01:06] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:01:12] [Render thread/INFO]: [System] [CHAT] 缺少“{”
+[00:01:12] [Render thread/INFO]: [System] [CHAT] ...ancements=1] 1<--[此处]
+[00:01:12] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:01:12] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:01:16] [Server thread/INFO]: Saving and pausing game...
+[00:01:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:overworld
+[00:01:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_nether
+[00:01:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_end
+[00:01:51] [Render thread/INFO]: [System] [CHAT] 成功设置命令：/damage @s 1
+[00:01:54] [Server thread/INFO]: Saving and pausing game...
+[00:01:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:overworld
+[00:01:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_nether
+[00:01:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_end
+[00:02:11] [Render thread/INFO]: [System] [CHAT] 成功设置命令：/data get storage wuhanqing
+[00:02:12] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:02:12] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:02:13] [Server thread/INFO]: Saving and pausing game...
+[00:02:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:overworld
+[00:02:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_nether
+[00:02:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_end
+[00:02:20] [Render thread/INFO]: [System] [CHAT] 成功设置命令：clone
+[00:02:25] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:02:25] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:02:31] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:02:31] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:02:33] [Server thread/INFO]: Saving and pausing game...
+[00:02:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:overworld
+[00:02:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_nether
+[00:02:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_end
+[00:02:38] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:02:38] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:02:45] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:02:45] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:02:51] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:02:51] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:02:58] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:02:58] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:03:04] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:03:04] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:03:11] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:03:11] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:03:17] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:03:17] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:03:24] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:03:24] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:03:30] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:03:30] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:03:37] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:03:37] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:03:43] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:03:43] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:03:50] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:03:50] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:03:56] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:03:56] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:04:03] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:04:03] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:04:09] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:04:09] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:04:16] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:04:16] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:04:22] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:04:22] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:04:29] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:04:29] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:04:35] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:04:35] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:04:42] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:04:42] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:04:48] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:04:48] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:04:55] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:04:55] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:05:01] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:05:01] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:05:08] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:05:08] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:05:14] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:05:14] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:05:21] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:05:21] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:05:27] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:05:27] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:05:34] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:05:34] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:05:40] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:05:40] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:05:47] [Server thread/INFO]: [@: 已将时间设为10000]
+[00:05:47] [Render thread/INFO]: [System] [CHAT] [@: 已将时间设为10000]
+[00:05:49] [Server thread/INFO]: Saving and pausing game...
+[00:05:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:overworld
+[00:05:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_nether
+[00:05:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_end
+[00:05:50] [Server thread/INFO]: wuhanqing lost connection: 连接中断
+[00:05:50] [Server thread/INFO]: wuhanqing退出了游戏
+[00:05:50] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:05:50] [Server thread/INFO]: Stopping server
+[00:05:50] [Server thread/INFO]: Saving players
+[00:05:50] [Server thread/INFO]: Saving worlds
+[00:05:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:overworld
+[00:05:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_nether
+[00:05:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[My Electric Lab]'/minecraft:the_end
+[00:05:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (My Electric Lab): All chunks are saved
+[00:05:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:05:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:05:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:05:53] [Render thread/INFO]: Loaded 1470 recipes
+[00:05:53] [Render thread/INFO]: Loaded 1584 advancements
+[00:06:48] [Render thread/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 383.0 μs
+[00:06:48] [Server thread/INFO]: Starting integrated minecraft server version 1.21.11
+[00:06:48] [Server thread/INFO]: Generating keypair
+[00:06:48] [Server thread/INFO]: Selecting global world spawn...
+[00:06:51] [Server thread/INFO]: Loading 0 persistent chunks...
+[00:06:51] [Server thread/INFO]: 准备生成区域中：16%
+[00:06:51] [Server thread/INFO]: Loading 48 chunks for player spawn...
+[00:06:51] [Server thread/INFO]: 准备生成区域中：16%
+[00:06:51] [Server thread/INFO]: 准备生成区域中：16%
+[00:06:51] [Server thread/INFO]: 准备生成区域中：16%
+[00:06:51] [Server thread/INFO]: 准备生成区域中：16%
+[00:06:51] [Server thread/INFO]: 准备生成区域中：16%
+[00:06:51] [Server thread/INFO]: 准备生成区域中：16%
+[00:06:52] [Server thread/INFO]: 准备生成区域中：16%
+[00:06:52] [Server thread/INFO]: 准备生成区域中：30%
+[00:06:53] [Server thread/INFO]: 准备生成区域中：30%
+[00:06:53] [Server thread/INFO]: 准备生成区域中：58%
+[00:06:54] [Server thread/INFO]: 准备生成区域中：58%
+[00:06:54] [Server thread/INFO]: Time elapsed: 5783 ms
+[00:06:54] [Server thread/INFO]: wuhanqing[local:E:8cbccf4a] logged in with entity id 86 at (3.5, 131.0, 9.5)
+[00:06:54] [Server thread/INFO]: wuhanqing加入了游戏
+[00:06:54] [Server thread/INFO]: Changing view distance to 12, from 10
+[00:06:54] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[00:06:54] [Render thread/INFO]: Loaded 2 advancements
+[00:07:07] [Server thread/INFO]: [wuhanqing: 已将自己的游戏模式设置为创造模式]
+[00:07:07] [Render thread/INFO]: [System] [CHAT] 已将自己的游戏模式设置为创造模式
+[00:07:09] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 256 reached during a single frame. New capacity will be 512.
+[00:07:19] [Server thread/INFO]: Saving and pausing game...
+[00:07:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:overworld
+[00:07:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_nether
+[00:07:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_end
+[00:07:21] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 512 reached during a single frame. New capacity will be 1024.
+[00:07:24] [Server thread/INFO]: Saving and pausing game...
+[00:07:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:overworld
+[00:07:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_nether
+[00:07:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_end
+[00:08:19] [Render thread/INFO]: Loaded 5 advancements
+[00:08:52] [Render thread/INFO]: Loaded 6 advancements
+[00:09:35] [Render thread/INFO]: Loaded 8 advancements
+[00:11:23] [Render thread/INFO]: Loaded 9 advancements
+[00:11:56] [Server thread/INFO]: Saving and pausing game...
+[00:11:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:overworld
+[00:11:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_nether
+[00:11:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_end
+[00:12:01] [Server thread/INFO]: Saving and pausing game...
+[00:12:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:overworld
+[00:12:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_nether
+[00:12:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_end
+[00:12:26] [Server thread/INFO]: Saving and pausing game...
+[00:12:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:overworld
+[00:12:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_nether
+[00:12:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_end
+[00:13:23] [Server thread/INFO]: [wuhanqing: 已将自己的游戏模式设置为生存模式]
+[00:13:23] [Render thread/INFO]: [System] [CHAT] 已将自己的游戏模式设置为生存模式
+[00:13:44] [Server thread/INFO]: [wuhanqing: 已将自己的游戏模式设置为创造模式]
+[00:13:44] [Render thread/INFO]: [System] [CHAT] 已将自己的游戏模式设置为创造模式
+[00:13:46] [Server thread/INFO]: [wuhanqing: 已将自己的游戏模式设置为生存模式]
+[00:13:46] [Render thread/INFO]: [System] [CHAT] 已将自己的游戏模式设置为生存模式
+[00:13:48] [Server thread/INFO]: [wuhanqing: 已将自己的游戏模式设置为创造模式]
+[00:13:48] [Render thread/INFO]: [System] [CHAT] 已将自己的游戏模式设置为创造模式
+[00:13:49] [Server thread/INFO]: [wuhanqing: 已将自己的游戏模式设置为生存模式]
+[00:13:49] [Render thread/INFO]: [System] [CHAT] 已将自己的游戏模式设置为生存模式
+[00:13:51] [Server thread/INFO]: [wuhanqing: 已将自己的游戏模式设置为创造模式]
+[00:13:51] [Render thread/INFO]: [System] [CHAT] 已将自己的游戏模式设置为创造模式
+[00:13:53] [Server thread/INFO]: [wuhanqing: 已将自己的游戏模式设置为生存模式]
+[00:13:53] [Render thread/INFO]: [System] [CHAT] 已将自己的游戏模式设置为生存模式
+[00:13:54] [Server thread/INFO]: [wuhanqing: 已将自己的游戏模式设置为创造模式]
+[00:13:54] [Render thread/INFO]: [System] [CHAT] 已将自己的游戏模式设置为创造模式
+[00:13:57] [Server thread/INFO]: [wuhanqing: 已将自己的游戏模式设置为生存模式]
+[00:13:57] [Render thread/INFO]: [System] [CHAT] 已将自己的游戏模式设置为生存模式
+[00:14:24] [Server thread/INFO]: wuhanqing试图在熔岩里游泳
+[00:14:24] [Render thread/INFO]: [System] [CHAT] wuhanqing试图在熔岩里游泳
+[00:14:48] [Server thread/INFO]: [wuhanqing: 已将自己的游戏模式设置为创造模式]
+[00:14:48] [Render thread/INFO]: [System] [CHAT] 已将自己的游戏模式设置为创造模式
+[00:14:49] [Server thread/INFO]: [wuhanqing: 已将自己的游戏模式设置为生存模式]
+[00:14:49] [Render thread/INFO]: [System] [CHAT] 已将自己的游戏模式设置为生存模式
+[00:15:36] [Render thread/INFO]: Loaded 48 advancements
+[00:15:40] [Server thread/INFO]: Saving and pausing game...
+[00:15:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:overworld
+[00:15:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_nether
+[00:15:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_end
+[00:18:40] [Render thread/INFO]: Loaded 51 advancements
+[00:18:49] [Render thread/INFO]: Loaded 62 advancements
+[00:18:51] [Render thread/INFO]: Loaded 70 advancements
+[00:19:55] [Server thread/INFO]: wuhanqing被蛰死了
+[00:19:55] [Render thread/INFO]: [System] [CHAT] wuhanqing被蛰死了
+[00:20:38] [Server thread/INFO]: wuhanqing被僵尸杀死了
+[00:20:38] [Render thread/INFO]: [System] [CHAT] wuhanqing被僵尸杀死了
+[00:21:10] [Server thread/INFO]: wuhanqing取得了进度[怪物猎人]
+[00:21:10] [Render thread/INFO]: [System] [CHAT] wuhanqing取得了进度[怪物猎人]
+[00:21:10] [Server thread/INFO]: wuhanqing被骷髅射杀
+[00:21:10] [Render thread/INFO]: Loaded 73 advancements
+[00:21:10] [Render thread/INFO]: [System] [CHAT] wuhanqing被骷髅射杀
+[00:21:50] [Server thread/INFO]: wuhanqing被末影人杀死了
+[00:21:50] [Render thread/INFO]: [System] [CHAT] wuhanqing被末影人杀死了
+[00:22:18] [Server thread/INFO]: wuhanqing被僵尸杀死了
+[00:22:18] [Render thread/INFO]: [System] [CHAT] wuhanqing被僵尸杀死了
+[00:22:58] [Server thread/INFO]: wuhanqing被僵尸杀死了
+[00:22:58] [Render thread/INFO]: [System] [CHAT] wuhanqing被僵尸杀死了
+[00:23:04] [Server thread/INFO]: wuhanqing被杀死了
+[00:23:04] [Server thread/INFO]: [wuhanqing: 杀死了wuhanqing]
+[00:23:04] [Render thread/INFO]: [System] [CHAT] wuhanqing被杀死了
+[00:23:04] [Render thread/INFO]: [System] [CHAT] 杀死了wuhanqing
+[00:23:11] [Server thread/INFO]: wuhanqing被杀死了
+[00:23:11] [Render thread/INFO]: [System] [CHAT] wuhanqing被杀死了
+[00:23:11] [Server thread/INFO]: [wuhanqing: 杀死了313个实体]
+[00:23:11] [Render thread/INFO]: [System] [CHAT] 杀死了313个实体
+[00:23:24] [Server thread/INFO]: wuhanqing被杀死了
+[00:23:24] [Render thread/INFO]: [System] [CHAT] wuhanqing被杀死了
+[00:23:24] [Server thread/INFO]: [wuhanqing: 杀死了578个实体]
+[00:23:24] [Render thread/INFO]: [System] [CHAT] 杀死了578个实体
+[00:23:29] [Server thread/INFO]: wuhanqing被杀死了
+[00:23:29] [Server thread/INFO]: [wuhanqing: 杀死了170个实体]
+[00:23:29] [Render thread/INFO]: [System] [CHAT] wuhanqing被杀死了
+[00:23:29] [Render thread/INFO]: [System] [CHAT] 杀死了170个实体
+[00:23:31] [Server thread/INFO]: wuhanqing被杀死了
+[00:23:31] [Server thread/INFO]: [wuhanqing: 杀死了112个实体]
+[00:23:31] [Render thread/INFO]: [System] [CHAT] wuhanqing被杀死了
+[00:23:31] [Render thread/INFO]: [System] [CHAT] 杀死了112个实体
+[00:24:01] [Server thread/INFO]: wuhanqing被僵尸杀死了
+[00:24:01] [Render thread/INFO]: [System] [CHAT] wuhanqing被僵尸杀死了
+[00:24:22] [Render thread/INFO]: [System] [CHAT] 未知或不完整的命令。错误见下
+[00:24:22] [Render thread/INFO]: [System] [CHAT] <--[此处]
+[00:26:55] [Server thread/INFO]: wuhanqing从高处摔了下来
+[00:26:55] [Render thread/INFO]: [System] [CHAT] wuhanqing从高处摔了下来
+[00:28:12] [Server thread/INFO]: wuhanqing从高处摔了下来
+[00:28:12] [Render thread/INFO]: [System] [CHAT] wuhanqing从高处摔了下来
+[00:28:15] [Server thread/INFO]: Saving and pausing game...
+[00:28:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:overworld
+[00:28:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_nether
+[00:28:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_end
+[00:28:16] [Server thread/INFO]: wuhanqing lost connection: 连接中断
+[00:28:16] [Server thread/INFO]: wuhanqing退出了游戏
+[00:28:16] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:28:16] [Server thread/INFO]: Stopping server
+[00:28:16] [Server thread/INFO]: Saving players
+[00:28:16] [Server thread/INFO]: Saving worlds
+[00:28:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:overworld
+[00:28:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_nether
+[00:28:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sakura World]'/minecraft:the_end
+[00:28:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (Sakura World): All chunks are saved
+[00:28:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:28:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:28:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:28:19] [Render thread/INFO]: Stopping!

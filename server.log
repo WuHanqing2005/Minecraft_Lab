@@ -1,0 +1,23 @@
+[2026-01-15 16:31:19,735] [INFO] Local IP detected: 192.168.35.195
+[2026-01-15 16:31:19,736] [INFO] Server successfully bound to port 20000
+[2026-01-15 16:32:01,144] [INFO] Incoming connection from 192.168.35.195:54537
+[2026-01-15 16:32:01,145] [INFO] ✓ Successfully responded to 192.168.35.195
+[2026-01-15 16:32:01,602] [INFO] Incoming connection from 192.168.35.195:54538
+[2026-01-15 16:32:01,603] [WARNING] 404 request from 192.168.35.195 for path: /favicon.ico
+[2026-01-15 16:32:12,051] [INFO] Local IP detected: 192.168.35.195
+[2026-01-15 16:32:12,052] [INFO] Server successfully bound to port 20000
+[2026-01-15 16:41:20,134] [INFO] Local IP detected: 192.168.35.195
+[2026-01-15 16:41:20,136] [INFO] Server successfully bound to port 20000
+[2026-01-15 16:41:57,471] [INFO] Incoming connection from 192.168.35.195:61994
+[2026-01-15 16:41:57,472] [INFO] ✓ Successfully responded to 192.168.35.195
+[2026-01-15 16:42:04,365] [INFO] Incoming connection from 192.168.35.195:61995
+[2026-01-15 16:42:04,366] [INFO] Status request from 192.168.35.195
+[2026-01-15 16:42:12,534] [INFO] Incoming connection from 192.168.35.195:62076
+[2026-01-15 16:45:26,131] [INFO] Local IP detected: 192.168.35.195
+[2026-01-15 16:45:26,132] [INFO] Server successfully bound to port 20000
+[2026-01-15 16:49:36,348] [INFO] Local IP detected: 192.168.35.195
+[2026-01-15 16:49:36,349] [INFO] Server successfully bound to port 20000
+[2026-01-15 16:50:32,681] [INFO] Local IP detected: 192.168.35.195
+[2026-01-15 16:50:32,682] [INFO] Server successfully bound to port 20000
+[2026-01-15 16:52:03,724] [INFO] Local IP detected: 192.168.35.195
+[2026-01-15 16:52:03,725] [INFO] Server successfully bound to port 20000

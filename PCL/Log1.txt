@@ -1,0 +1,57 @@
+[16:30:52.169] <主线程> [Start] 程序版本：Release 2.12.2 (381)
+[16:30:52.171] <主线程> [Start] 识别码：E548-2CC3-F551-929A，已解锁反馈主题
+[16:30:52.171] <主线程> [Start] 程序路径：D:\Program Files\Minecraft_Lab\Plain Craft Launcher 2.exe
+[16:30:52.171] <主线程> [Start] 系统编码：gb2312 (936, GBK=True)
+[16:30:52.172] <主线程> [Start] 管理员权限：True
+[16:30:52.192] <主线程> [Start] 第一阶段加载用时：224 ms
+[16:30:52.357] <主线程> [UI] 刷新主题：0
+[16:30:52.394] <主线程> [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[16:30:52.395] <主线程> [Start] 第二阶段加载用时：195 ms
+[16:30:52.402] <L/Minecraft Folder List> [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[16:30:52.599] <主线程> [System] 窗口已置顶，位置：(270, 155), 900 x 550
+[16:30:52.603] <Animation> [Animation] 动画线程开始
+[16:30:52.603] <主线程> [Start] 第三阶段加载用时：66 ms
+[16:30:52.604] <初始化> [Start] 加载 DLL：Newtonsoft.Json
+[16:30:52.604] <初始化> [System] 获取资源：Newtonsoft.Json
+[16:30:52.613] <Version Check> [Launch] Minecraft 文件夹：D:\Program Files\Minecraft_Lab\.minecraft\
+[16:30:52.675] <主线程> [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[16:30:52.680] <L/Loader Skin Legacy> [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[16:30:52.681] <初始化> [Java] 缓存中有 2 个可用的 Java：
+[16:30:52.682] <初始化> [Java]  - JDK 17 (17.0.16)：C:\Program Files\Zulu\zulu-17\bin\
+[16:30:52.682] <初始化> [Java]  - JDK 21 (21.0.7)：C:\Users\*********\AppData\Roaming\.minecraft\runtime\java-runtime-delta\bin\
+[16:30:52.756] <主线程> [Page] 实例化：清空主页 UI，来源为空
+[16:30:52.757] <主线程> [Animation] 两个动画帧间隔 143 ms
+[16:30:52.773] <主线程> [Skin] 载入头像成功：Loader Skin Legacy
+[16:30:52.777] <主线程> [Minecraft] 启动按钮：Minecraft 版本：D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\
+[16:30:52.780] <主线程> [Loader] 加载器 登录 状态改变：Loading
+[16:30:52.784] <L/登录> [Launch] 登录加载已开始
+[16:30:52.784] <L/登录> [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[16:30:52.786] <L/Loader Login Legacy> [Launch] 登录方式：离线（wuhanqing）
+[16:30:52.787] <L/Loader Login Legacy> [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[16:30:52.789] <初始化> [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[16:30:52.791] <初始化> [Loader] 加载器 PCL 配置更新 状态改变：Loading
+[16:30:52.793] <TryClearTaskTemp> [System] 开始清理任务缓存文件夹
+[16:30:52.794] <Telemetry> [System] 匿名数据上报：启动
+[16:30:52.795] <TryClearTaskTemp> [System] 已清理任务缓存文件夹
+[16:30:52.797] <L/DlClientList Mojang> [Net] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+[16:30:52.799] <Telemetry> [Start] 加载 DLL：CacheCow.Client.FileStore
+[16:30:52.799] <Telemetry> [System] 获取资源：CacheCow.Client.FileStore
+[16:30:52.800] <Telemetry> [Start] 加载 DLL：CacheCow.Common
+[16:30:52.800] <Telemetry> [System] 获取资源：CacheCow.Common
+[16:30:52.800] <Telemetry> [Start] 加载 DLL：CacheCow.Client
+[16:30:52.800] <Telemetry> [System] 获取资源：CacheCow.Client
+[16:30:52.805] <L/登录> [Launch] 登录加载已结束
+[16:30:52.805] <L/登录> [Loader] 加载器 登录 状态改变：Finished
+[16:30:52.806] <L/PCL 配置更新> [Server] 已读取本地缓存的配置：29
+[16:30:52.806] <L/PCL 配置更新> [Net] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+[16:30:52.934] <主线程> [Start] 加载 DLL：System.Net.Http.Formatting
+[16:30:52.934] <主线程> [System] 获取资源：System.Net.Http.Formatting
+[16:30:52.952] <L/DlClientList Mojang> [Download] Mojang 官方源加载耗时：159ms，可优先使用官方源
+[16:30:52.956] <L/DlClientList Mojang> [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[16:30:53.121] <L/PCL 配置更新> [Server] 本地公告编号：199，服务器公告：199|380|381|5|23，无需更新
+[16:30:53.122] <L/PCL 配置更新> [Server] 复制自身为最新正式版：版本号升高到 381
+[16:30:53.133] <L/PCL 配置更新> [Loader] 加载器 PCL 配置更新 状态改变：Finished
+[16:30:53.322] <主线程> [System] DPI：192，系统版本：Microsoft Windows NT 10.0.19045.0，PCL 位置：D:\Program Files\Minecraft_Lab\Plain Craft Launcher 2.exe
+[16:30:54.145] <主线程> [Control] 按下图标按钮：BtnTitleClose
+[16:30:54.148] <主线程> [System] 收到关闭指令
+[16:30:54.371] <主线程> [System] 程序已退出，返回值：Success

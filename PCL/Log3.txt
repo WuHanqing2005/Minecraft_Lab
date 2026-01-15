@@ -1,0 +1,151 @@
+[14:31:42.953] <主线程> [Start] 程序版本：Release 2.12.1 (379)
+[14:31:42.956] <主线程> [Start] 识别码：E548-2CC3-F551-929A，已解锁反馈主题
+[14:31:42.956] <主线程> [Start] 程序路径：D:\Program Files\Minecraft_Lab\Plain Craft Launcher 2.exe
+[14:31:42.956] <主线程> [Start] 系统编码：gb2312 (936, GBK=True)
+[14:31:42.957] <主线程> [Start] 管理员权限：False
+[14:31:42.986] <主线程> [Start] 第一阶段加载用时：531 ms
+[14:31:43.830] <主线程> [UI] 刷新主题：0
+[14:31:43.998] <主线程> [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[14:31:43.999] <主线程> [Start] 第二阶段加载用时：922 ms
+[14:31:44.018] <L/Minecraft Folder List> [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[14:31:45.101] <主线程> [System] 窗口已置顶，位置：(270, 155), 900 x 550
+[14:31:45.108] <Animation> [Animation] 动画线程开始
+[14:31:45.111] <初始化> [Start] 加载 DLL：Newtonsoft.Json
+[14:31:45.111] <初始化> [System] 获取资源：Newtonsoft.Json
+[14:31:45.127] <Version Check> [Launch] Minecraft 文件夹：D:\Program Files\Minecraft_Lab\.minecraft\
+[14:31:45.218] <初始化> [Java] 缓存中有 2 个可用的 Java：
+[14:31:45.219] <初始化> [Java]  - JDK 17 (17.0.16)：C:\Program Files\Zulu\zulu-17\bin\
+[14:31:45.219] <初始化> [Java]  - JDK 21 (21.0.7)：C:\Users\*********\AppData\Roaming\.minecraft\runtime\java-runtime-delta\bin\
+[14:31:45.336] <初始化> [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[14:31:45.338] <初始化> [Loader] 加载器 PCL 配置更新 状态改变：Loading
+[14:31:45.340] <TryClearTaskTemp> [System] 开始清理任务缓存文件夹
+[14:31:45.342] <Telemetry> [System] 匿名数据上报：启动
+[14:31:45.345] <L/DlClientList Mojang> [Net] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+[14:31:45.348] <Telemetry> [Start] 加载 DLL：CacheCow.Client.FileStore
+[14:31:45.348] <Telemetry> [System] 获取资源：CacheCow.Client.FileStore
+[14:31:45.349] <Telemetry> [Start] 加载 DLL：CacheCow.Common
+[14:31:45.349] <Telemetry> [System] 获取资源：CacheCow.Common
+[14:31:45.349] <Telemetry> [Start] 加载 DLL：CacheCow.Client
+[14:31:45.349] <Telemetry> [System] 获取资源：CacheCow.Client
+[14:31:45.354] <L/PCL 配置更新> [Server] 已读取本地缓存的配置：29
+[14:31:45.354] <L/PCL 配置更新> [Net] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+[14:31:45.581] <主线程> [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[14:31:45.587] <L/Loader Skin Legacy> [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[14:31:45.609] <主线程> [Start] 加载 DLL：System.Net.Http.Formatting
+[14:31:45.609] <主线程> [System] 获取资源：System.Net.Http.Formatting
+[14:31:45.670] <L/DlClientList Mojang> [Download] Mojang 官方源加载耗时：328ms，可优先使用官方源
+[14:31:45.676] <L/DlClientList Mojang> [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[14:31:45.764] <主线程> [Page] 实例化：清空主页 UI，来源为空
+[14:31:45.770] <主线程> [Minecraft] 启动按钮：Minecraft 版本：D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\
+[14:31:45.774] <主线程> [Loader] 加载器 登录 状态改变：Loading
+[14:31:45.778] <L/登录> [Launch] 登录加载已开始
+[14:31:45.779] <L/登录> [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[14:31:45.781] <L/Loader Login Legacy> [Launch] 登录方式：离线（wuhanqing）
+[14:31:45.784] <L/Loader Login Legacy> [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[14:31:45.795] <L/登录> [Launch] 登录加载已结束
+[14:31:45.795] <L/登录> [Loader] 加载器 登录 状态改变：Finished
+[14:31:45.833] <主线程> [Skin] 载入头像成功：Loader Skin Legacy
+[14:31:45.833] <主线程> [Animation] 两个动画帧间隔 656 ms
+[14:31:45.874] <主线程> [System] DPI：192，系统版本：Microsoft Windows NT 10.0.19045.0，PCL 位置：D:\Program Files\Minecraft_Lab\Plain Craft Launcher 2.exe
+[14:31:46.160] <L/PCL 配置更新> [Server] 本地公告编号：198，服务器公告：198|378|379|5|23，无需更新
+[14:31:46.166] <L/PCL 配置更新> [Loader] 加载器 PCL 配置更新 状态改变：Finished
+[14:31:48.091] <主线程> [Control] 按下单选按钮：设置
+[14:31:48.407] <主线程> [Control] 切换主要页面：Setup, -1
+[14:31:48.413] <主线程> [Animation] 两个动画帧间隔 312 ms
+[14:31:51.705] <TryClearTaskTemp> [System] 已清理任务缓存文件夹
+[14:31:51.943] <主线程> [Control] 按下单选按钮：更多
+[14:31:51.959] <主线程> [Loader] 加载器 Help Page 状态改变：Loading
+[14:31:51.961] <主线程> [Control] 切换主要页面：Other, -1
+[14:31:51.968] <L/Help Page> [Help] 已扫描 PCL 文件夹下的帮助文件，目前总计 0 条
+[14:31:51.969] <L/Help Page> [Help] 已扫描缓存文件夹下的帮助文件，目前总计 40 条
+[14:31:52.049] <L/Help Page> [Loader] 加载器 Help Page 状态改变：Finished
+[14:31:53.189] <主线程> [Control] 按下图标按钮：BtnTitleMin
+[14:33:18.114] <主线程> [Animation] 两个动画帧间隔 109 ms
+[14:33:19.147] <主线程> [Animation] 两个动画帧间隔 141 ms
+[14:33:20.008] <主线程> [Animation] 两个动画帧间隔 172 ms
+[14:33:43.287] <主线程> [Animation] 两个动画帧间隔 109 ms
+[14:33:43.636] <主线程> [Animation] 两个动画帧间隔 110 ms
+[14:33:48.687] <主线程> [Animation] 两个动画帧间隔 110 ms
+[14:33:51.449] <主线程> [Animation] 两个动画帧间隔 109 ms
+[14:33:52.244] <主线程> [Animation] 两个动画帧间隔 172 ms
+[14:33:52.457] <主线程> [Animation] 两个动画帧间隔 109 ms
+[14:33:52.842] <主线程> [Animation] 两个动画帧间隔 188 ms
+[14:33:53.346] <主线程> [Animation] 两个动画帧间隔 109 ms
+[14:33:54.166] <主线程> [Animation] 两个动画帧间隔 109 ms
+[14:33:55.037] <主线程> [Animation] 两个动画帧间隔 265 ms
+[14:33:55.290] <主线程> [Animation] 两个动画帧间隔 140 ms
+[14:33:56.177] <主线程> [Animation] 两个动画帧间隔 188 ms
+[14:33:56.276] <主线程> [Animation] 两个动画帧间隔 109 ms
+[14:33:57.741] <主线程> [Animation] 两个动画帧间隔 109 ms
+[14:33:58.802] <主线程> [Animation] 两个动画帧间隔 110 ms
+[14:33:59.088] <主线程> [Animation] 两个动画帧间隔 110 ms
+[14:34:00.267] <主线程> [Animation] 两个动画帧间隔 125 ms
+[14:34:00.391] <主线程> [Animation] 两个动画帧间隔 125 ms
+[14:34:00.606] <主线程> [Animation] 两个动画帧间隔 109 ms
+[14:34:01.057] <主线程> [Animation] 两个动画帧间隔 110 ms
+[14:34:01.713] <主线程> [Animation] 两个动画帧间隔 110 ms
+[14:34:07.182] <主线程> [Animation] 两个动画帧间隔 110 ms
+[14:34:07.829] <主线程> [Animation] 两个动画帧间隔 125 ms
+[14:34:08.842] <主线程> [Animation] 两个动画帧间隔 110 ms
+[14:34:09.185] <主线程> [Animation] 两个动画帧间隔 110 ms
+[14:57:10.148] <主线程> [Animation] 两个动画帧间隔 282 ms
+[15:03:11.563] <主线程> [Report] FPS 0, 动画 8, 下载中 0（0 B/s）
+[15:03:13.190] <主线程> [Control] 按下图标按钮：BtnTitleMin
+[15:10:35.067] <主线程> [Animation] 两个动画帧间隔 266 ms
+[15:10:37.004] <主线程> [Control] 按下单选按钮：启动
+[15:10:37.010] <主线程> [Control] 切换主要页面：Launch, -1
+[15:10:38.370] <主线程> [Control] 按下按钮：版本选择
+[15:10:38.399] <主线程> [Control] 切换主要页面：InstanceSelect, 0
+[15:10:38.515] <主线程> [Loader] 加载器 Minecraft Instance List 状态改变：Loading
+[15:10:38.515] <主线程> [Minecraft] 启动按钮：正在加载 Minecraft 版本
+[15:10:38.559] <L/Minecraft Instance List> [Setup] 当前选择的 Minecraft 版本：Create-Delight-Remake
+[15:10:38.559] <L/Minecraft Instance List> [Minecraft] 选择该文件夹储存的 Minecraft 版本：D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\
+[15:10:38.713] <主线程> [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > D:\Program Files\Minecraft_Lab\.minecraft\
+[15:10:38.762] <L/Minecraft Instance List> [Loader] 加载器 Minecraft Instance List 状态改变：Finished
+[15:10:41.001] <主线程> [Control] 按下图标按钮：BtnTitleInner
+[15:10:41.002] <主线程> [Control] 切换主要页面：Launch, -1
+[15:10:41.126] <主线程> [Minecraft] 启动按钮：Minecraft 版本：D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\
+[15:20:31.482] <主线程> [Animation] 两个动画帧间隔 109 ms
+[15:20:34.260] <主线程> [Animation] 两个动画帧间隔 1859 ms
+[15:20:37.848] <主线程> [Animation] 两个动画帧间隔 156 ms
+[15:20:39.489] <主线程> [Animation] 两个动画帧间隔 187 ms
+[15:20:39.798] <主线程> [Animation] 两个动画帧间隔 203 ms
+[15:20:39.886] <主线程> [Animation] 两个动画帧间隔 110 ms
+[15:20:40.501] <主线程> [Animation] 两个动画帧间隔 109 ms
+[15:20:42.301] <主线程> [Animation] 两个动画帧间隔 188 ms
+[15:20:42.532] <主线程> [Animation] 两个动画帧间隔 109 ms
+[15:20:42.810] <主线程> [Animation] 两个动画帧间隔 110 ms
+[15:20:43.683] <主线程> [Animation] 两个动画帧间隔 125 ms
+[15:20:44.170] <主线程> [Animation] 两个动画帧间隔 109 ms
+[15:20:44.378] <主线程> [Animation] 两个动画帧间隔 109 ms
+[15:20:44.635] <主线程> [Animation] 两个动画帧间隔 110 ms
+[15:20:44.852] <主线程> [Animation] 两个动画帧间隔 172 ms
+[15:20:44.948] <主线程> [Animation] 两个动画帧间隔 109 ms
+[15:20:45.145] <主线程> [Animation] 两个动画帧间隔 141 ms
+[15:20:45.244] <主线程> [Animation] 两个动画帧间隔 109 ms
+[15:20:46.289] <主线程> [Animation] 两个动画帧间隔 109 ms
+[15:20:47.076] <主线程> [Animation] 两个动画帧间隔 110 ms
+[15:21:02.695] <主线程> [Animation] 两个动画帧间隔 109 ms
+[15:21:02.709] <主线程> [Animation] 两个动画帧间隔 15250 ms
+[15:21:22.882] <主线程> [Animation] 两个动画帧间隔 187 ms
+[15:22:35.930] <主线程> [Animation] 两个动画帧间隔 109 ms
+[15:22:36.660] <主线程> [Animation] 两个动画帧间隔 140 ms
+[15:22:37.033] <主线程> [Control] 按下图标按钮：BtnTitleMin
+[15:23:32.850] <主线程> [Animation] 两个动画帧间隔 156 ms
+[15:46:02.866] <主线程> [Animation] 两个动画帧间隔 125 ms
+[15:50:32.848] <主线程> [Animation] 两个动画帧间隔 110 ms
+[15:50:42.880] <主线程> [Animation] 两个动画帧间隔 141 ms
+[15:50:52.899] <主线程> [Animation] 两个动画帧间隔 172 ms
+[15:51:52.864] <主线程> [Animation] 两个动画帧间隔 125 ms
+[15:52:02.845] <主线程> [Animation] 两个动画帧间隔 110 ms
+[15:53:12.871] <主线程> [Animation] 两个动画帧间隔 141 ms
+[15:53:22.865] <主线程> [Animation] 两个动画帧间隔 125 ms
+[15:56:23.004] <主线程> [Animation] 两个动画帧间隔 234 ms
+[15:56:32.918] <主线程> [Animation] 两个动画帧间隔 156 ms
+[15:56:42.924] <主线程> [Animation] 两个动画帧间隔 156 ms
+[16:00:02.910] <主线程> [Animation] 两个动画帧间隔 140 ms
+[16:05:02.878] <主线程> [Animation] 两个动画帧间隔 109 ms
+[16:05:12.899] <主线程> [Animation] 两个动画帧间隔 140 ms
+[16:08:59.773] <主线程> [System] 收到关闭指令
+[16:08:59.847] <主线程> [Animation] 两个动画帧间隔 125 ms
+[16:08:59.977] <主线程> [System] 程序已退出，返回值：Success

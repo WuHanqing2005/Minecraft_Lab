@@ -1,0 +1,467 @@
+[16:28:21] [INFO] Custom/reload.js#9: Forcing reload to work around KubeJS bugs...
+[16:28:22] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[16:28:22] [INIT] Loaded plugins:
+[16:28:22] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[16:28:22] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[16:28:22] [INIT] - com.sighs.generalfeedback.compat.kubejs.JSPlugin
+[16:28:22] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[16:28:22] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[16:28:22] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[16:28:22] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[16:28:22] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[16:28:22] [INIT] - com.lowdragmc.mbd2.integration.kubejs.MBDKubeJSPlugin
+[16:28:22] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[16:28:22] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[16:28:22] [INIT] - com.prunoideae.powerfuljs.forge.PowerfulJSPluginForge
+[16:28:22] [INIT] - com.almostreliable.morejs.Plugin
+[16:28:22] [INIT] - com.negodya1.kubejs.vintageimprovements.KubeJSVintagePlugin
+[16:28:22] [INIT] - com.oierbravo.create_mechanical_spawner.compat.kubejs.KubeJSCreateMechanicalSpawnerPlugin
+[16:28:22] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
+[16:28:22] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[16:28:22] [INIT] - com.probejs.ProbeJSPlugin
+[16:28:22] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[16:28:22] [INIT] - com.chen1335.renderjs.kubejs.RenderJSPlugin
+[16:28:22] [INIT] - fr.lucreeper74.createmetallurgy.compat.kubejs.CreateMetallurgyKJS
+[16:28:22] [INFO] Loaded script server_scripts:Custom/event.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Improved Mobs/utils.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:util/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Adastra/adastra.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Adastra/entity.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Adastra/loot.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Adastra/metallurgy.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Adastra/rocket.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Adastra/space_suit.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Adastra/tags.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:AE Omnicells/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:AE2/budding_quartz.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:AE2/component.js in 0.003 s
+[16:28:22] [INFO] Loaded script server_scripts:AE2/infinity_cell.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:AE2/loot.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:AE2/machine.js in 0.002 s
+[16:28:22] [INFO] Loaded script server_scripts:AE2/material.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:AE2/processor&cellcasing.js in 0.005 s
+[16:28:22] [INFO] Loaded script server_scripts:AE2/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:AE2/tool&stuff.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Alex's Cave/Biology.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Alex's Cave/candy.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Alex's Cave/loot.js in 0.002 s
+[16:28:22] [INFO] Loaded script server_scripts:Alex's Cave/magnetic_cave.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Alex's Cave/portal.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Alex's Cave/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Alex's Cave/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Alex's Cave/toxic_caves.js in 0.003 s
+[16:28:22] [INFO] Loaded script server_scripts:Alex's Mobs/prevent_summon.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Alex's Mobs/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Alex's Mobs/summon.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Art Of Forging/effect/beheading.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Art Of Forging/effect/nano_fuse.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Art Of Forging/loot.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Art Of Forging/recipes.js in 0.002 s
+[16:28:22] [INFO] Loaded script server_scripts:Art Of Forging/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Bakeries/misc.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Bakeries/recipe.js in 0.001 s
+[16:28:22] [INFO] Bakeries/tags.js#1: Loaded Java class 'dev.architectury.platform.forge.PlatformImpl'
+[16:28:22] [INFO] Loaded script server_scripts:Bakeries/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Bakeries/trade.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Better Combat/network.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Bountiful/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Brewin and Chewin/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Brewin and Chewin/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Brewin and Chewin/util.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Butchercraft/bug_fix.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Butchercraft/food.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Butchercraft/recipes.js in 0.002 s
+[16:28:22] [INFO] Loaded script server_scripts:Butchercraft/tags.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Casualness Delight/bug_fix.js in 0.0 s
+[16:28:22] [INFO] Casualness Delight/cheese.js#1: Loaded Java class 'vectorwing.farmersdelight.common.block.PieBlock'
+[16:28:22] [INFO] Casualness Delight/cheese.js#2: Loaded Java class 'umpaz.brewinandchewin.common.block.CheeseWheelBlock'
+[16:28:22] [INFO] Casualness Delight/cheese.js#3: Loaded Java class 'java.lang.Integer'
+[16:28:22] [INFO] Loaded script server_scripts:Casualness Delight/cheese.js in 0.002 s
+[16:28:22] [INFO] Loaded script server_scripts:Casualness Delight/frying.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Casualness Delight/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Cave Delight/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Cobble for Days/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Collectors Reap/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Collectors Reap/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Corn Delight/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Cosmopolitan/recipe.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Cosmopolitan/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Crabbers Delight/lobster&crab.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Crabbers Delight/loot.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Crabbers Delight/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Crate Delight/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create/blaze_cake.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create/bug_fix.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create/metallurgy.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Addition/blaze_burner_fuel.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Addition/loot.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Addition/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Addition/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Better Storage/recipe.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create BitterBallen/recipe.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Cafe/big_fix.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Cafe/loot.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Cafe/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Cafe/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Central Kitchen/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Confectionery/caramel.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Confectionery/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Confectionery/remove.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Confectionery/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Connected/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Connected/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Deco/remove.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Deco/tag.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Delight/recipe.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Delight/tag.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Diesel Generators/bug_fix.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Diesel Generators/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Enchant Industry/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Fantasizing/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Fluid/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Fluid/tag.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Jetpack/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Mechanical Spawner/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Metallurgy/melting_block.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Metallurgy/melting_dust.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Metallurgy/recipe.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create More Recipe/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create New Age/energising.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create New Age/magnet.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create New Age/motor.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create New Age/nuclear.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create New Age/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Ore/cluster.js in 0.001 s
+[16:28:22] [INFO] Create Ore/finder_overworld.js#1: Loaded Java class 'com.tom.createores.OreVeinGenerator'
+[16:28:22] [INFO] Create Ore/finder_overworld.js#2: Loaded Java class 'com.tom.createores.item.OreVeinAtlasItem'
+[16:28:22] [INFO] Loaded script server_scripts:Create Ore/finder_overworld.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Ore/fluid.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Ore/ore.js in 0.001 s
+[16:28:22] [INFO] Create Ore/ore_digging.js#1: Loaded Java class 'com.tom.createores.OreDataCapability'
+[16:28:22] [INFO] Loaded script server_scripts:Create Ore/ore_digging.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Ore/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Ore/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Staff & Addition/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Staff & Addition/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Utilities/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create Utilities/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create vintage improvements/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Create vintage improvements/spring_tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Cultural Delights/corn.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Cultural Delights/recipes.js in 0.0 s
+[16:28:22] [INFO] Curios/util.js#1: Loaded Java class 'top.theillusivec4.curios.api.CuriosApi'
+[16:28:22] [INFO] Curios/util.js#2: Loaded Java class 'top.theillusivec4.curios.api.type.capability.ICurioItem'
+[16:28:22] [INFO] Loaded script server_scripts:Curios/util.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/air_armors.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/break_efficiency.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/command.js in 0.0 s
+[16:28:22] [INFO] Custom/encase.js#3: Loaded Java class 'java.lang.Boolean'
+[16:28:22] [INFO] Custom/encase.js#20: Loaded Java class 'com.simibubi.create.content.kinetics.belt.BeltBlock'
+[16:28:22] [INFO] Custom/encase.js#119: Loaded Java class 'com.simibubi.create.content.kinetics.simpleRelays.ShaftBlock'
+[16:28:22] [INFO] Loaded script server_scripts:Custom/encase.js in 0.004 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/export_food.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/fluid_transporter.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/food/butter.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/food/chips.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/food/cookie.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/food/icecream.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/food/muffin.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/food/popsicle.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/food/roll.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/food/vermicelli&board.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/hellow.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/leather.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/metal/andesite.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/metal/bronze.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/metal/tin.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/misc.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/multiblock.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/order/data.js in 0.002 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/order/event.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/order/system.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/paper.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/pipe.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/player_login.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/reload.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/remove.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/slime.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Custom/vanilla.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Debug/Debug.js in 0.001 s
+[16:28:22] [INFO] Debug/Or_debug_boss.js#15: Loaded Java class 'net.minecraft.core.registries.Registries'
+[16:28:22] [INFO] Loaded script server_scripts:Debug/Or_debug_boss.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Deeper Darker/loot.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Deeper Darker/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Design Decor/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Display Delight/tags.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Dungeons Delight/misc.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Dungeons Delight/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Dungeons Delight/tag.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Ecliptic Seasons/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Ecliptic Seasons/serene_season_tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Ecliptic Seasons/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:End's Delight/chorus_cooldown.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:End's Delight/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:End's Delight/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Every X hotpot/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Farmer Delight/assembly_line.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Farmer Delight/bug_fix.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Farmer Delight/compostable.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Farmer Delight/pie.js in 0.002 s
+[16:28:22] [INFO] Loaded script server_scripts:Farmer Delight/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Farmer Delight/some_tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Farmer Delight/trade.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Farmers Respite/coffee.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Farmers Respite/compat.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Farmers Respite/milk_tea.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Farmers Respite/tea.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Festival Delicacies/compat.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Festival Delicacies/dumplings.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Festival Delicacies/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Fruits Delight/interaction.js in 0.002 s
+[16:28:22] [INFO] Loaded script server_scripts:Fruits Delight/loot.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Fruits Delight/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Fruits Delight/tag.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Frycooks Delight/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:FTB Quest/event.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Functional Storage/bug_fix.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Functional Storage/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Gateways/gate_pearl.js in 0.001 s
+[16:28:22] [INFO] Ice and Fire/collect_dragon_blood.js#1: Loaded Java class 'com.github.alexthe666.iceandfire.entity.EntityDragonBase'
+[16:28:22] [INFO] Loaded script server_scripts:Ice and Fire/collect_dragon_blood.js in 0.002 s
+[16:28:22] [INFO] Loaded script server_scripts:Ice and Fire/dragon_blood.js in 0.002 s
+[16:28:22] [INFO] Loaded script server_scripts:Ice and Fire/dragon_steel.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Ice and Fire/loot.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Ice and Fire/prevent_summon.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Ice and Fire/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Ice and Fire/remove.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Ice and Fire/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Ice and Fire/trade.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Immersive Aircraft/craft.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Improved Mobs/loot.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Improved Mobs/player_death.js in 0.001 s
+[16:28:22] [INFO] Improved Mobs/quest.js#3: Loaded Java class 'io.github.flemmli97.improvedmobs.platform.CrossPlatformStuff'
+[16:28:22] [INFO] Improved Mobs/quest.js#4: Loaded Java class 'dev.ftb.mods.ftbquests.quest.Quest'
+[16:28:22] [INFO] Improved Mobs/quest.js#5: Loaded Java class 'dev.ftb.mods.ftbquests.util.ProgressChange'
+[16:28:22] [INFO] Loaded script server_scripts:Improved Mobs/quest.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Industrial Platform/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Kaleidoscope Doll/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Kinetic Pixel/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Kinetic Pixel/tag.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Kinetic Pixel/trade.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Lets Do/bug_fix.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Lets Do/recipe.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Lets Do/remove_fxxking_things.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Lightmans Currency/economic.js in 0.001 s
+[16:28:22] [INFO] Lightmans Currency/entity_loot.js#1: Loaded Java class 'net.minecraft.world.entity.Mob'
+[16:28:22] [INFO] Lightmans Currency/entity_loot.js#2: Loaded Java class 'net.minecraft.world.entity.MobSpawnType'
+[16:28:22] [INFO] Loaded script server_scripts:Lightmans Currency/entity_loot.js in 0.002 s
+[16:28:22] [INFO] Loaded script server_scripts:Lightmans Currency/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Lightmans Currency/tags.js in 0.0 s
+[16:28:22] [INFO] Lightmans Currency/white_list.js#1: Loaded Java class 'io.github.lightman314.lightmanscurrency.common.traders.rules.types.PlayerListing'
+[16:28:22] [INFO] Lightmans Currency/white_list.js#2: Loaded Java class 'io.github.lightman314.lightmanscurrency.common.data.types.TraderDataCache'
+[16:28:22] [INFO] Loaded script server_scripts:Lightmans Currency/white_list.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Luncheon Meats Delight/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/alloy_electric_furnace.js in 0.0 s
+[16:28:22] [INFO] mbd2/assembly_line.js#1: Loaded Java class 'com.lowdragmc.mbd2.api.recipe.ingredient.FluidIngredient'
+[16:28:22] [INFO] mbd2/assembly_line.js#2: Loaded Java class 'com.lowdragmc.mbd2.api.recipe.ingredient.SizedIngredient'
+[16:28:22] [INFO] mbd2/assembly_line.js#3: Loaded Java class 'com.lowdragmc.lowdraglib.side.fluid.FluidStack'
+[16:28:22] [INFO] mbd2/assembly_line.js#4: Loaded Java class 'com.simibubi.create.content.kinetics.deployer.ItemApplicationRecipe'
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/assembly_line.js in 0.002 s
+[16:28:22] [INFO] mbd2/butchery_room.js#1: Loaded Java class 'com.lowdragmc.mbd2.common.capability.recipe.ItemRecipeCapability'
+[16:28:22] [INFO] mbd2/butchery_room.js#2: Loaded Java class 'com.lance5057.butchercraft.workstations.hook.MeatHookBlockEntity'
+[16:28:22] [INFO] mbd2/butchery_room.js#3: Loaded Java class 'com.lance5057.butchercraft.workstations.butcherblock.ButcherBlockBlockEntity'
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/butchery_room.js in 0.002 s
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/centrifugation.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/contract_executor.js in 0.0 s
+[16:28:22] [INFO] mbd2/dryer.js#1: Loaded Java class 'net.minecraft.util.Mth'
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/dryer.js in 0.0 s
+[16:28:22] [INFO] mbd2/event.js#1: Loaded Java class 'com.lowdragmc.mbd2.common.machine.MBDMultiblockMachine'
+[16:28:22] [INFO] mbd2/event.js#2: Loaded Java class 'com.lowdragmc.mbd2.common.machine.MBDPartMachine'
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/event.js in 0.001 s
+[16:28:22] [INFO] mbd2/hydropower_station.js#1: Loaded Java class 'com.lowdragmc.mbd2.integration.create.machine.MBDKineticMachineBlockEntity'
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/hydropower_station.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/mbd2.js in 0.001 s
+[16:28:22] [INFO] mbd2/mechanical_craft_encoder.js#1: Loaded Java class 'com.simibubi.create.content.logistics.BigItemStack'
+[16:28:22] [INFO] mbd2/mechanical_craft_encoder.js#2: Loaded Java class 'com.simibubi.create.content.logistics.stockTicker.PackageOrderWithCrafts'
+[16:28:22] [INFO] mbd2/mechanical_craft_encoder.js#3: Loaded Java class 'com.simibubi.create.content.kinetics.crafter.MechanicalCraftingRecipe'
+[16:28:22] [INFO] mbd2/mechanical_craft_encoder.js#4: Loaded Java class 'net.minecraftforge.items.ItemStackHandler'
+[16:28:22] [INFO] mbd2/mechanical_craft_encoder.js#5: Loaded Java class 'com.simibubi.create.content.logistics.box.PackageItem'
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/mechanical_craft_encoder.js in 0.002 s
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/mechanic_grinding_wheel.js in 0.001 s
+[16:28:22] [INFO] mbd2/mortar.js#1: Loaded Java class 'net.minecraft.server.level.ServerPlayer'
+[16:28:22] [INFO] mbd2/mortar.js#2: Loaded Java class 'com.simibubi.create.content.kinetics.millstone.MillingRecipe'
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/mortar.js in 0.004 s
+[16:28:22] [INFO] mbd2/order_deliverer.js#2: Loaded Java class 'com.simibubi.create.content.logistics.tableCloth.TableClothBlockEntity'
+[16:28:22] [INFO] mbd2/order_deliverer.js#3: Loaded Java class 'com.simibubi.create.content.logistics.box.PackageEntity'
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/order_deliverer.js in 0.003 s
+[16:28:22] [INFO] mbd2/reactor.js#1: Loaded Java class 'com.lowdragmc.mbd2.common.capability.recipe.ForgeEnergyRecipeCapability'
+[16:28:22] [INFO] mbd2/reactor.js#2: Loaded Java class 'com.lowdragmc.mbd2.common.capability.recipe.FluidRecipeCapability'
+[16:28:22] [INFO] mbd2/reactor.js#3: Loaded Java class 'com.lowdragmc.lowdraglib.gui.widget.SwitchWidget'
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/reactor.js in 0.004 s
+[16:28:22] [INFO] mbd2/reactor_controller.js#1: Loaded Java class 'com.lowdragmc.mbd2.api.machine.IMultiPart'
+[16:28:22] [INFO] mbd2/reactor_controller.js#2: Loaded Java class 'net.minecraft.world.level.block.state.properties.BlockStateProperties'
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/reactor_controller.js in 0.001 s
+[16:28:22] [INFO] mbd2/sell_bin.js#2: Loaded Java class 'net.minecraft.network.protocol.game.ClientboundSetTitleTextPacket'
+[16:28:22] [INFO] mbd2/sell_bin.js#3: Loaded Java class 'net.minecraft.network.protocol.game.ClientboundSetSubtitleTextPacket'
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/sell_bin.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:mbd2/sprinkler.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:mbd2_recipes/alloy_electric_furnace.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:mbd2_recipes/butchery.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:mbd2_recipes/centrifugation.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:mbd2_recipes/contract_executor.js in 0.0 s
+[16:28:22] [INFO] mbd2_recipes/proxy_recipe/centrifugation.js#1: Loaded Java class 'net.minecraft.world.item.crafting.Ingredient'
+[16:28:22] [INFO] mbd2_recipes/proxy_recipe/centrifugation.js#2: Loaded Java class 'dev.latvian.mods.kubejs.fluid.FluidStackJS'
+[16:28:22] [INFO] Loaded script server_scripts:mbd2_recipes/proxy_recipe/centrifugation.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:mbd2_recipes/proxy_recipe/util.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Miners Delight/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Miners Delight/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:My Nethers Delight/compat.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:My Nethers Delight/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:My Nethers Delight/remove.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:My Nethers Delight/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Neapolitan/bug_fix.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Neapolitan/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Nether Exp/loot.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Nether Exp/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Nether Exp/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Oceanic Delight/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Protection Pixel/armorplates.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Protection Pixel/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Quality Food/absorber.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Quality Food/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Quark/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:ratatouille/cake.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:ratatouille/chocolate.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:ratatouille/compat.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:ratatouille/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:ratatouille/sausage.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:ratatouille/wheat&oat&rice.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Refurbished Furniture/burger_and_sandwich.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Refurbished Furniture/compat.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Seasonals/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Silents delight/recipes.js in 0.0 s
+[16:28:22] [INFO] Sol Applepie/util.js#1: Loaded Java class 'com.tarinoita.solsweetpotato.tracking.FoodList'
+[16:28:22] [INFO] Loaded script server_scripts:Sol Applepie/util.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Some Assembly Required/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Some Assembly Required/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Sophisticated Backpacks/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Sophisticated Backpacks/upgrade.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Supplementaries/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:TACZ/applied_armorer.js in 0.001 s
+[16:28:22] [INFO] TACZ/misc.js#1: Loaded Java class 'com.tacz.guns.api.item.IGun'
+[16:28:22] [INFO] TACZ/misc.js#2: Loaded Java class 'com.tacz.guns.api.TimelessAPI'
+[16:28:22] [INFO] TACZ/misc.js#3: Loaded Java class 'com.tacz.guns.util.AttachmentDataUtils'
+[16:28:22] [INFO] TACZ/misc.js#4: Loaded Java class 'appeng.block.networking.EnergyCellBlockItem'
+[16:28:22] [INFO] Loaded script server_scripts:TACZ/misc.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:TACZ/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Tetra/effect/charge.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Tetra/effect/dragon_restraint.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Tetra/effect/fiber_proliferation.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Tetra/effect/forestall.js in 0.001 s
+[16:28:22] [INFO] Tetra/effect/frozen.js#1: Loaded Java class 'com.github.alexthe666.iceandfire.entity.props.EntityDataProvider'
+[16:28:22] [INFO] Loaded script server_scripts:Tetra/effect/frozen.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Tetra/effect/irradiation.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Tetra/effect/life_drain.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Tetra/effect/overwhelm.js in 0.0 s
+[16:28:22] [INFO] Tetra/effect/util.js#1: Loaded Java class 'se.mickelus.tetra.items.modular.ModularItem'
+[16:28:22] [INFO] Tetra/effect/util.js#2: Loaded Java class 'se.mickelus.tetra.effect.ItemEffect'
+[16:28:22] [INFO] Loaded script server_scripts:Tetra/effect/util.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Tetra/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Tetra/tag.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:The Bumblezone/loot.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:The Bumblezone/recipes.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:The Bumblezone/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:The End/craft.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:The End/loot.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Trales&Tales Delight/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Trales&Tales Delight/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:util/brewinandchewin.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:util/direction.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:util/energy.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:util/festival_delicacies.js in 0.001 s
+[16:28:22] [INFO] util/loot.js#2: Loaded Java class 'net.minecraft.world.level.storage.loot.LootParams$Builder'
+[16:28:22] [INFO] util/loot.js#3: Loaded Java class 'net.minecraft.world.level.storage.loot.parameters.LootContextParamSets'
+[16:28:22] [INFO] Loaded script server_scripts:util/loot.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:util/metallurgy.js in 0.001 s
+[16:28:22] [INFO] util/money.js#1: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.money.MoneyAPI'
+[16:28:22] [INFO] util/money.js#2: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.money.coins.CoinAPI'
+[16:28:22] [INFO] util/money.js#3: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.money.value.builtin.CoinValue'
+[16:28:22] [INFO] util/money.js#4: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.money.coins.data.ChainData'
+[16:28:22] [INFO] Loaded script server_scripts:util/money.js in 0.002 s
+[16:28:22] [INFO] Loaded script server_scripts:util/ratatouille.js in 0.0 s
+[16:28:22] [INFO] util/reactor.js#1: Loaded Java class 'com.github.alexmodguy.alexscaves.server.entity.ACEntityRegistry'
+[16:28:22] [INFO] Loaded script server_scripts:util/reactor.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:util/refurbished_furniture.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:util/respite.js in 0.001 s
+[16:28:22] [INFO] util/SeasonUtil.js#1: Loaded Java class 'com.teamtea.eclipticseasons.common.core.SolarHolders'
+[16:28:22] [INFO] util/SeasonUtil.js#2: Loaded Java class 'com.teamtea.eclipticseasons.common.core.crop.HumidityControlProvider'
+[16:28:22] [INFO] Loaded script server_scripts:util/SeasonUtil.js in 0.0 s
+[16:28:22] [INFO] util/trade.js#1: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.traders.TraderAPI'
+[16:28:22] [INFO] util/trade.js#2: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.traders.TraderData'
+[16:28:22] [INFO] util/trade.js#3: Loaded Java class 'io.github.lightman314.lightmanscurrency.common.traders.item.tradedata.ItemTradeData'
+[16:28:22] [INFO] util/trade.js#4: Loaded Java class 'de.cadentem.quality_food.util.QualityUtils'
+[16:28:22] [INFO] util/trade.js#5: Loaded Java class 'de.cadentem.quality_food.config.QualityConfig'
+[16:28:22] [INFO] Loaded script server_scripts:util/trade.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Vinery/bug_fix.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Vinery/fluid_recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Vinery/recipe.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Vinery/tag.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Vinery/trade.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Vintage Delight/loot.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Vintage Delight/pepper.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Vintage Delight/recipes.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Vintage Delight/tag.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:Youkai's Homecoming/recipe.js in 0.002 s
+[16:28:22] [INFO] Youkai's Homecoming/sushi.js#1: Loaded Java class 'dev.xkmc.youkaishomecoming.content.pot.table.item.TableItemManager'
+[16:28:22] [INFO] Youkai's Homecoming/sushi.js#2: Loaded Java class 'dev.xkmc.youkaishomecoming.content.pot.table.food.FoodModelHelper'
+[16:28:22] [INFO] Loaded script server_scripts:Youkai's Homecoming/sushi.js in 0.001 s
+[16:28:22] [INFO] Loaded script server_scripts:Youkai's Homecoming/tags.js in 0.0 s
+[16:28:22] [INFO] Loaded script server_scripts:yungs/spawned.js in 0.0 s
+[16:28:22] [INFO] Loaded 324/324 KubeJS server scripts in 0.234 s with 0 errors and 0 warnings
+[16:28:22] [INFO] Scripts loaded
+[16:28:22] [INFO] Initializing recipe event...
+[16:28:22] [INFO] [minecraft:fluid] Found 113 tags, added 36 objects, removed 17 objects
+[16:28:23] [INFO] [minecraft:entity_type] Found 297 tags, added 23 objects, removed 0 objects
+[16:28:23] [INFO] [minecraft:worldgen/biome] Found 729 tags, added 19 objects, removed 3 objects
+[16:28:23] [INFO] [minecraft:block] Found 1082 tags, added 578 objects, removed 14 objects
+[16:28:23] [INFO] [minecraft:item] Found 2767 tags, added 1987 objects, removed 42 objects
+[16:28:24] [INFO] Processing recipes...
+[16:28:24] [WARN] Failed to parse recipe 'casualness_delight:cooking/beef_noodles[farmersdelight:cooking]'! Falling back to vanilla: Recipe component key 'experience' not found! Valid keys: [container?:input_item, result:output_item, experience:int, cookingtime:ticks, ingredients:input_item[]]
+[16:28:24] [WARN] Failed to parse recipe 'crabbersdelight:lanternfish_from_barrel[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:28:24] [WARN] Failed to parse recipe 'createaddition:liquid_burning/gasoline[createaddition:liquid_burning]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:28:24] [WARN] Failed to parse recipe 'casualness_delight:cooking/fish_and_chips[farmersdelight:cooking]'! Falling back to vanilla: Recipe component key 'experience' not found! Valid keys: [result:output_item, ingredients:input_item[], container?:input_item, experience:int, cookingtime:ticks]
+[16:28:24] [WARN] Failed to parse recipe 'ratatouille:smoking/solid_sugar_block[minecraft:smoking]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:28:24] [WARN] Failed to parse recipe 'crabbersdelight:lanternfish_barrel[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:28:25] [WARN] Failed to parse recipe 'createaddition:liquid_burning/biodiesel[createaddition:liquid_burning]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:28:25] [WARN] Failed to parse recipe 'cavedelight:dino_nugget_platter[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:28:25] [WARN] Failed to parse recipe 'createaddition:liquid_burning/ethanol[createaddition:liquid_burning]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:28:25] [WARN] Failed to parse recipe 'createaddition:liquid_burning/diesel[createaddition:liquid_burning]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:28:25] [WARN] Failed to parse recipe 'casualness_delight:cooking/bobo_chicken[farmersdelight:cooking]'! Falling back to vanilla: Recipe component key 'experience' not found! Valid keys: [result:output_item, container?:input_item, experience:int, cookingtime:ticks, ingredients:input_item[]]
+[16:28:25] [WARN] Failed to parse recipe 'casualness_delight:cooking/raw_cheese_wheel[farmersdelight:cooking]'! Falling back to vanilla: Recipe component key 'experience' not found! Valid keys: [container?:input_item, experience:int, ingredients:input_item[], cookingtime:ticks, result:output_item]
+[16:28:25] [WARN] Failed to parse recipe 'createaddition:liquid_burning/plantoil[createaddition:liquid_burning]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:28:25] [WARN] Failed to parse recipe 'create_sa:andesite_exoskeleton_recipe[create:mechanical_crafting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:28:25] [WARN] Failed to parse recipe 'createaddition:liquid_burning/biofuel[createaddition:liquid_burning]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[16:28:25] [WARN] Failed to parse recipe 'createdieselgenerators:distillation/superheated_crude_oil[createdieselgenerators:distillation]'! Falling back to vanilla: null
+[16:28:25] [WARN] Failed to parse recipe 'createdieselgenerators:distillation/crude_oil[createdieselgenerators:distillation]'! Falling back to vanilla: null
+[16:28:25] [WARN] Failed to parse recipe 'netherexp:stonecutting/from_pale_soul_slate/indented[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:28:25] [WARN] Failed to parse recipe 'createaddition:liquid_burning/lava[createaddition:liquid_burning]'! Falling back to vanilla: null
+[16:28:25] [WARN] Failed to parse recipe 'createaddition:liquid_burning/crude_oil[createaddition:liquid_burning]'! Falling back to vanilla: null
+[16:28:25] [INFO] Found 18366 recipes in 1.249 s
+[16:28:27] [INFO] Posted recipe events in 1.976 s
+[16:28:27] [WARN] Error parsing recipe cavedelight:cutting/tectonic_pie[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"item":"cavedelight:tectonic_pie"}],"result":[{"count":4,"item":"cavedelight:tectonic_pie_slice"}],"tool":{"tag":"forge:tools/knives"}}: Unknown item 'cavedelight:tectonic_pie'
+[16:28:27] [WARN] Error parsing recipe cosmopolitan:create/mixing/peculiars/yucca_ice_cream[create:mixing]: {"type":"create:mixing","conditions":[{"type":"cosmopolitan:config","value":"create_neapolitan_recipe_tweaks"},{"type":"forge:mod_loaded","modid":"create"},{"type":"forge:mod_loaded","modid":"seasonals"}],"ingredients":[{"item":"atmospheric:yucca_fruit"},{"tag":"forge:ice_cubes"},{"item":"minecraft:sugar"},{"amount":750,"fluidTag":"forge:milk"}],"results":[{"amount":750,"fluid":"cosmopolitan:yucca_ice_cream"}]}: Unknown item 'atmospheric:yucca_fruit'
+[16:28:27] [WARN] Error parsing recipe create_confectionery:chocolate_recipe_6[create:mixing]: {"group":"create_confectionery","type":"create:mixing","ingredients":[{"item":"create_confectionery:chocolate_bricks_wall"}],"results":[{"fluid":"create:chocolate","amount":1000}],"heatRequirement":"heated"}: Unknown item 'create_confectionery:chocolate_bricks_wall'
+[16:28:27] [WARN] Error parsing recipe vintagedelight:fermenting/frost_fermenta[vintagedelight:fermenting]: {"type":"vintagedelight:fermenting","ingredients":[{"item":"vintagedelight:ghost_pepper_seeds"},{"item":"minecraft:rotten_tomato"},{"item":"farmersdelight:milk_bottle"},{"item":"minecraft:snowball"},{"item":"minecraft:kelp"}],"output":{"item":"minecraft:potion","count":1,"nbt":"{Potion:\"minecraft:water\",CustomPotionEffects:[{Id:12,Amplifier:0,Duration:3600},{Id:2,Amplifier:0,Duration:3600}],CustomPotionColor:3937500,display:{Name:'{\"text\":\"Frost Fermenta\",\"italic\":false}'}}"},"processingTime":600}: Unknown item 'minecraft:rotten_tomato'
+[16:28:27] [WARN] Error parsing recipe alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]: {"group":"barbecue_stick","type":"minecraft:crafting_shapeless","ingredients":[{"item":"farmersdelight:tomato"},{"item":"farmersdelight:onion"},{"item":"amfd:singular_cooked_moose_rib"},{"item":"minecraft:cooked_chicken"},{"item":"minecraft:stick"},{"item":"minecraft:stick"}],"result":{"item":"farmersdelight:barbecue_stick","count":2}}: Unknown item 'amfd:singular_cooked_moose_rib'
+[16:28:27] [WARN] Error parsing recipe create_confectionery:ruby_chocolate_recipe_6[create:mixing]: {"group":"create_confectionery","type":"create:mixing","ingredients":[{"item":"create_confectionery:ruby_chocolate_brick_wall"}],"results":[{"fluid":"create_confectionery:ruby_chocolate","amount":1000}],"heatRequirement":"heated"}: Unknown item 'create_confectionery:ruby_chocolate_brick_wall'
+[16:28:27] [WARN] Error parsing recipe create_confectionery:white_chocolate_recipe_6[create:mixing]: {"group":"create_confectionery","type":"create:mixing","ingredients":[{"item":"create_confectionery:white_chocolate_bricks_wall"}],"results":[{"fluid":"create_confectionery:white_chocolate","amount":1000}],"heatRequirement":"heated"}: Unknown item 'create_confectionery:white_chocolate_bricks_wall'
+[16:28:27] [WARN] Error parsing recipe create_confectionery:black_chocolate_recipe_6[create:mixing]: {"group":"create_confectionery","type":"create:mixing","ingredients":[{"item":"create_confectionery:black_chocolate_bricks_wall"}],"results":[{"fluid":"create_confectionery:black_chocolate","amount":1000}],"heatRequirement":"heated"}: Unknown item 'create_confectionery:black_chocolate_bricks_wall'
+[16:28:27] [WARN] Error parsing recipe ratatouille:threshing/wool[ratatouille:threshing]: {"type":"ratatouille:threshing","ingredients":[{"item":"minecraft:wool"}],"processingTime":200,"results":[{"item":"minecraft:wool","count":2}]}: Unknown item 'minecraft:wool'
+[16:28:27] [WARN] Error parsing recipe createdelight:casting_in_basin/andesite_alloy_block[createmetallurgy:casting_in_basin]: {"type":"createmetallurgy:casting_in_basin","result":{"item":"create:andesite_alloy_block","count":1},"ingredients":[{"fluid":"createdelightcore:molten_andesite","amount":810}]}: Missing processingTime, expected to find a Int
+[16:28:27] [WARN] Error parsing recipe createdieselgenerators:kjs/ucx1snmjbgglydy7sw38c0oc[createdieselgenerators:basin_fermenting]: {"type":"createdieselgenerators:basin_fermenting","results":[{"item":"minecraft:pearlescent_froglight","count":2}],"ingredients":[{"fluid":"createdelightcore:slime","amount":810},{"fluid":"minecraft:prismarine_crystal","amount":1000},{"item":"minecraft:sea_pickle"},{"item":"vintagedelight:salt_block"},{"fluid":"createdelight:vinegar","amount":250}],"processingTime":100.0}: Invalid empty fluid 'minecraft:prismarine_crystal'
+[16:28:27] [WARN] Error parsing recipe createdieselgenerators:kjs/bmv5i5kl0svdfxji0v862fpt6[createdieselgenerators:bulk_fermenting]: {"type":"createdieselgenerators:bulk_fermenting","results":[{"item":"minecraft:pearlescent_froglight","count":2}],"ingredients":[{"fluid":"createdelightcore:slime","amount":810},{"fluid":"minecraft:prismarine_crystal","amount":1000},{"item":"minecraft:sea_pickle"},{"item":"vintagedelight:salt_block"},{"fluid":"createdelight:vinegar","amount":250}],"processingTime":50.0}: Invalid empty fluid 'minecraft:prismarine_crystal'
+[16:28:28] [INFO] Added 3483 recipes, removed 1567 recipes, modified 354 recipes, with 12 failed recipes in 528.0 ms
+[16:28:31] [INFO] Server resource reload complete!
