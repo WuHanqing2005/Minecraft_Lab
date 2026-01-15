@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = false
-  world = D:/Program Files/Minecraft_Lab/.minecraft/versions/Create-Delight-Remake/saves/World for Engineering
+  is_server = true
+  world = 218.55.238.15:25565
 }
 

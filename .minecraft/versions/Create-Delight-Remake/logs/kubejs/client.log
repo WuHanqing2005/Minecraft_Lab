@@ -1,83 +1,83 @@
-[16:25:34] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[16:25:34] [INIT] Loaded plugins:
-[16:25:34] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[16:25:34] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[16:25:34] [INIT] - com.sighs.generalfeedback.compat.kubejs.JSPlugin
-[16:25:34] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
-[16:25:34] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[16:25:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[16:25:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[16:25:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[16:25:34] [INIT] - com.lowdragmc.mbd2.integration.kubejs.MBDKubeJSPlugin
-[16:25:34] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[16:25:34] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[16:25:34] [INIT] - com.prunoideae.powerfuljs.forge.PowerfulJSPluginForge
-[16:25:34] [INIT] - com.almostreliable.morejs.Plugin
-[16:25:34] [INIT] - com.negodya1.kubejs.vintageimprovements.KubeJSVintagePlugin
-[16:25:34] [INIT] - com.oierbravo.create_mechanical_spawner.compat.kubejs.KubeJSCreateMechanicalSpawnerPlugin
-[16:25:34] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
-[16:25:34] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[16:25:34] [INIT] - com.probejs.ProbeJSPlugin
-[16:25:34] [INIT] - com.almostreliable.ponderjs.KubePlugin
-[16:25:34] [INIT] - com.chen1335.renderjs.kubejs.RenderJSPlugin
-[16:25:34] [INIT] - fr.lucreeper74.createmetallurgy.compat.kubejs.CreateMetallurgyKJS
-[16:25:35] [INFO] Loaded script client_scripts:bug_fix.js in 0.002 s
-[16:25:35] [INFO] Loaded script client_scripts:crop_tooltip.js in 0.0 s
-[16:25:35] [INFO] Loaded script client_scripts:info.js in 0.002 s
-[16:25:35] [INFO] Loaded script client_scripts:JEI.js in 0.0 s
-[16:25:35] [INFO] key.js#1: Loaded Java class 'net.bettercombat.client.BetterCombatKeybindings'
-[16:25:35] [INFO] Loaded script client_scripts:key.js in 0.003 s
-[16:25:35] [INFO] network.js#2: Loaded Java class 'com.simibubi.create.content.fluids.FluidFX'
-[16:25:35] [INFO] network.js#3: Loaded Java class 'se.mickelus.tetra.items.modular.impl.holo.gui.HoloGui'
-[16:25:35] [INFO] Loaded script client_scripts:network.js in 0.012 s
-[16:25:35] [INFO] order/order.js#1: Loaded Java class 'net.minecraft.world.item.Rarity'
-[16:25:35] [INFO] Loaded script client_scripts:order/order.js in 0.001 s
-[16:25:35] [INFO] ponder/scene/ae2/annihilation_plane.js#1: Loaded Java class 'com.simibubi.create.foundation.ponder.CreateSceneBuilder'
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/ae2/annihilation_plane.js in 0.037 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/ae2/budding_quartz.js in 0.001 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/ae2/cable.js in 0.001 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/ae2/controller.js in 0.001 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/ae2/crafting_process_unit.js in 0.001 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/ae2/crafting_system.js in 0.0 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/ae2/formation_plane.js in 0.0 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/ae2/import_export_bus.js in 0.001 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/ae2/interface.js in 0.0 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/ae2/io_port.js in 0.0 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/ae2/molecular_assembler.js in 0.0 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/ae2/pattern_provider.js in 0.001 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/ae2/quantum_network_bridge.js in 0.001 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/ae2/storage_bus.js in 0.0 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/create.js in 0.001 s
-[16:25:35] [INFO] ponder/scene/mbd2/alloy_electric_furnace.js#1: Loaded Java class 'net.minecraft.world.level.block.state.properties.BlockStateProperties'
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/mbd2/alloy_electric_furnace.js in 0.001 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/mbd2/big_centrifuge.js in 0.002 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/mbd2/butchery_room.js in 0.001 s
-[16:25:35] [INFO] ponder/scene/mbd2/fission_reactor.js#1: Loaded Java class 'com.github.alexmodguy.alexscaves.client.particle.ACParticleRegistry'
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/mbd2/fission_reactor.js in 0.004 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/scene/mbd2/hydropower_station.js in 0.004 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/tag/ae2/ponder_tag.js in 0.0 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/tag/multiblock.js in 0.001 s
-[16:25:35] [INFO] Loaded script client_scripts:ponder/tag/remove.js in 0.0 s
-[16:25:35] [INFO] render/infinity_cell.js#1: Loaded Java class 'com.mojang.blaze3d.platform.Lighting'
-[16:25:35] [INFO] Loaded script client_scripts:render/infinity_cell.js in 0.004 s
-[16:25:35] [INFO] Loaded script client_scripts:render/render_item_energy_bar.js in 0.002 s
-[16:25:35] [INFO] tool_tip.js#2: Loaded Java class 'com.simibubi.create.content.processing.sequenced.SequencedAssemblyItem'
-[16:25:35] [INFO] tool_tip.js#118: Loaded Java class 'de.cadentem.quality_food.util.QualityUtils'
-[16:25:35] [INFO] tool_tip.js#119: Loaded Java class 'de.cadentem.quality_food.config.QualityConfig'
-[16:25:35] [INFO] Loaded script client_scripts:tool_tip.js in 0.006 s
-[16:25:35] [INFO] utils/money.js#1: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.money.MoneyAPI'
-[16:25:35] [INFO] utils/money.js#2: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.money.coins.CoinAPI'
-[16:25:35] [INFO] utils/money.js#3: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.money.value.builtin.CoinValue'
-[16:25:35] [INFO] utils/money.js#4: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.money.coins.data.ChainData'
-[16:25:35] [INFO] Loaded script client_scripts:utils/money.js in 0.048 s
-[16:25:35] [INFO] utils/ponder.js#1: Loaded Java class 'net.minecraft.core.particles.ParticleTypes'
-[16:25:35] [INFO] utils/ponder.js#2: Loaded Java class 'net.minecraft.core.particles.BlockParticleOption'
-[16:25:35] [INFO] utils/ponder.js#3: Loaded Java class 'net.minecraft.core.particles.ItemParticleOption'
-[16:25:35] [INFO] Loaded script client_scripts:utils/ponder.js in 0.004 s
-[16:25:35] [INFO] utils/tetra.js#1: Loaded Java class 'se.mickelus.tetra.items.modular.ModularItem'
-[16:25:35] [INFO] utils/tetra.js#2: Loaded Java class 'se.mickelus.tetra.effect.ItemEffect'
-[16:25:35] [INFO] Loaded script client_scripts:utils/tetra.js in 0.001 s
-[16:25:35] [INFO] Loaded script client_scripts:utils/tool_tips.js in 0.001 s
-[16:25:35] [INFO] Loaded 37/37 KubeJS client scripts in 0.25 s with 0 errors and 0 warnings
-[16:25:47] [INFO] Client resource reload complete!
-[16:27:32] [ERROR] ! java.lang.NullPointerException: Cannot read field "f_46441_" because the return value of "net.createmod.ponder.foundation.PonderScene.getWorld()" is null [java.lang.NullPointerException]
+[18:17:13] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[18:17:13] [INIT] Loaded plugins:
+[18:17:13] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:17:13] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[18:17:13] [INIT] - com.sighs.generalfeedback.compat.kubejs.JSPlugin
+[18:17:13] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[18:17:13] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[18:17:13] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[18:17:13] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[18:17:13] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[18:17:13] [INIT] - com.lowdragmc.mbd2.integration.kubejs.MBDKubeJSPlugin
+[18:17:13] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[18:17:13] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[18:17:13] [INIT] - com.prunoideae.powerfuljs.forge.PowerfulJSPluginForge
+[18:17:13] [INIT] - com.almostreliable.morejs.Plugin
+[18:17:13] [INIT] - com.negodya1.kubejs.vintageimprovements.KubeJSVintagePlugin
+[18:17:13] [INIT] - com.oierbravo.create_mechanical_spawner.compat.kubejs.KubeJSCreateMechanicalSpawnerPlugin
+[18:17:13] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
+[18:17:13] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[18:17:13] [INIT] - com.probejs.ProbeJSPlugin
+[18:17:13] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[18:17:13] [INIT] - com.chen1335.renderjs.kubejs.RenderJSPlugin
+[18:17:13] [INIT] - fr.lucreeper74.createmetallurgy.compat.kubejs.CreateMetallurgyKJS
+[18:17:13] [INFO] Loaded script client_scripts:bug_fix.js in 0.002 s
+[18:17:13] [INFO] Loaded script client_scripts:crop_tooltip.js in 0.0 s
+[18:17:13] [INFO] Loaded script client_scripts:info.js in 0.001 s
+[18:17:13] [INFO] Loaded script client_scripts:JEI.js in 0.0 s
+[18:17:13] [INFO] key.js#1: Loaded Java class 'net.bettercombat.client.BetterCombatKeybindings'
+[18:17:13] [INFO] Loaded script client_scripts:key.js in 0.003 s
+[18:17:13] [INFO] network.js#2: Loaded Java class 'com.simibubi.create.content.fluids.FluidFX'
+[18:17:13] [INFO] network.js#3: Loaded Java class 'se.mickelus.tetra.items.modular.impl.holo.gui.HoloGui'
+[18:17:13] [INFO] Loaded script client_scripts:network.js in 0.016 s
+[18:17:13] [INFO] order/order.js#1: Loaded Java class 'net.minecraft.world.item.Rarity'
+[18:17:13] [INFO] Loaded script client_scripts:order/order.js in 0.002 s
+[18:17:13] [INFO] ponder/scene/ae2/annihilation_plane.js#1: Loaded Java class 'com.simibubi.create.foundation.ponder.CreateSceneBuilder'
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/ae2/annihilation_plane.js in 0.052 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/ae2/budding_quartz.js in 0.002 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/ae2/cable.js in 0.0 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/ae2/controller.js in 0.0 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/ae2/crafting_process_unit.js in 0.0 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/ae2/crafting_system.js in 0.001 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/ae2/formation_plane.js in 0.0 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/ae2/import_export_bus.js in 0.001 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/ae2/interface.js in 0.0 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/ae2/io_port.js in 0.001 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/ae2/molecular_assembler.js in 0.001 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/ae2/pattern_provider.js in 0.001 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/ae2/quantum_network_bridge.js in 0.001 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/ae2/storage_bus.js in 0.0 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/create.js in 0.001 s
+[18:17:13] [INFO] ponder/scene/mbd2/alloy_electric_furnace.js#1: Loaded Java class 'net.minecraft.world.level.block.state.properties.BlockStateProperties'
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/mbd2/alloy_electric_furnace.js in 0.001 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/mbd2/big_centrifuge.js in 0.001 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/mbd2/butchery_room.js in 0.001 s
+[18:17:13] [INFO] ponder/scene/mbd2/fission_reactor.js#1: Loaded Java class 'com.github.alexmodguy.alexscaves.client.particle.ACParticleRegistry'
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/mbd2/fission_reactor.js in 0.003 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/scene/mbd2/hydropower_station.js in 0.001 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/tag/ae2/ponder_tag.js in 0.0 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/tag/multiblock.js in 0.0 s
+[18:17:13] [INFO] Loaded script client_scripts:ponder/tag/remove.js in 0.0 s
+[18:17:13] [INFO] render/infinity_cell.js#1: Loaded Java class 'com.mojang.blaze3d.platform.Lighting'
+[18:17:13] [INFO] Loaded script client_scripts:render/infinity_cell.js in 0.004 s
+[18:17:13] [INFO] Loaded script client_scripts:render/render_item_energy_bar.js in 0.001 s
+[18:17:13] [INFO] tool_tip.js#2: Loaded Java class 'com.simibubi.create.content.processing.sequenced.SequencedAssemblyItem'
+[18:17:13] [INFO] tool_tip.js#118: Loaded Java class 'de.cadentem.quality_food.util.QualityUtils'
+[18:17:13] [INFO] tool_tip.js#119: Loaded Java class 'de.cadentem.quality_food.config.QualityConfig'
+[18:17:13] [INFO] Loaded script client_scripts:tool_tip.js in 0.004 s
+[18:17:13] [INFO] utils/money.js#1: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.money.MoneyAPI'
+[18:17:13] [INFO] utils/money.js#2: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.money.coins.CoinAPI'
+[18:17:13] [INFO] utils/money.js#3: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.money.value.builtin.CoinValue'
+[18:17:13] [INFO] utils/money.js#4: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.money.coins.data.ChainData'
+[18:17:13] [INFO] Loaded script client_scripts:utils/money.js in 0.043 s
+[18:17:13] [INFO] utils/ponder.js#1: Loaded Java class 'net.minecraft.core.particles.ParticleTypes'
+[18:17:13] [INFO] utils/ponder.js#2: Loaded Java class 'net.minecraft.core.particles.BlockParticleOption'
+[18:17:13] [INFO] utils/ponder.js#3: Loaded Java class 'net.minecraft.core.particles.ItemParticleOption'
+[18:17:13] [INFO] Loaded script client_scripts:utils/ponder.js in 0.004 s
+[18:17:13] [INFO] utils/tetra.js#1: Loaded Java class 'se.mickelus.tetra.items.modular.ModularItem'
+[18:17:13] [INFO] utils/tetra.js#2: Loaded Java class 'se.mickelus.tetra.effect.ItemEffect'
+[18:17:13] [INFO] Loaded script client_scripts:utils/tetra.js in 0.001 s
+[18:17:13] [INFO] Loaded script client_scripts:utils/tool_tips.js in 0.001 s
+[18:17:13] [INFO] Loaded 37/37 KubeJS client scripts in 0.269 s with 0 errors and 0 warnings
+[18:17:25] [INFO] Client resource reload complete!
+[18:19:43] [ERROR] ! java.lang.NullPointerException: Cannot read field "f_46441_" because the return value of "net.createmod.ponder.foundation.PonderScene.getWorld()" is null [java.lang.NullPointerException]

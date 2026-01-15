@@ -1,140 +1,140 @@
-[16:25:32] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[16:25:32] [INIT] Loaded plugins:
-[16:25:32] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[16:25:32] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[16:25:32] [INIT] - com.sighs.generalfeedback.compat.kubejs.JSPlugin
-[16:25:32] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
-[16:25:32] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[16:25:32] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[16:25:32] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[16:25:32] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[16:25:32] [INIT] - com.lowdragmc.mbd2.integration.kubejs.MBDKubeJSPlugin
-[16:25:32] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[16:25:32] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[16:25:32] [INIT] - com.prunoideae.powerfuljs.forge.PowerfulJSPluginForge
-[16:25:32] [INIT] - com.almostreliable.morejs.Plugin
-[16:25:32] [INIT] - com.negodya1.kubejs.vintageimprovements.KubeJSVintagePlugin
-[16:25:32] [INIT] - com.oierbravo.create_mechanical_spawner.compat.kubejs.KubeJSCreateMechanicalSpawnerPlugin
-[16:25:32] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
-[16:25:32] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[16:25:32] [INIT] - com.probejs.ProbeJSPlugin
-[16:25:32] [INIT] - com.almostreliable.ponderjs.KubePlugin
-[16:25:32] [INIT] - com.chen1335.renderjs.kubejs.RenderJSPlugin
-[16:25:32] [INIT] - fr.lucreeper74.createmetallurgy.compat.kubejs.CreateMetallurgyKJS
-[16:25:34] [INFO] custom/order/system.js#4: Loaded Java class 'com.tarinoita.solsweetpotato.tracking.FoodInstance'
-[16:25:34] [INFO] custom/order/system.js#5: Loaded Java class 'com.simibubi.create.content.logistics.box.PackageItem'
-[16:25:34] [INFO] custom/order/system.js#6: Loaded Java class 'io.github.lightman314.lightmanscurrency.common.traders.auction.tradedata.AuctionTradeData'
-[16:25:34] [INFO] custom/order/system.js#7: Loaded Java class 'net.mcreator.createstuffadditions.entity.BrassDroneEntity'
-[16:25:34] [INFO] custom/order/system.js#8: Loaded Java class 'de.cadentem.quality_food.util.QualityUtils'
-[16:25:34] [INFO] custom/order/system.js#9: Loaded Java class 'com.tarinoita.solsweetpotato.tracking.FoodList'
-[16:25:34] [INFO] custom/order/system.js#10: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.money.value.builtin.CoinValue'
-[16:25:34] [INFO] custom/order/system.js#11: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.traders.TraderAPI'
-[16:25:34] [INFO] Loaded script startup_scripts:custom/order/system.js in 0.247 s
-[16:25:34] [INFO] @recipes/prelude.js#2: Loaded Java class 'dev.latvian.mods.kubejs.recipe.schema.RecipeSchema'
-[16:25:34] [INFO] @recipes/prelude.js#3: Loaded Java class 'dev.latvian.mods.kubejs.recipe.component.RecipeComponentBuilder'
-[16:25:34] [INFO] @recipes/prelude.js#4: Loaded Java class 'dev.latvian.mods.kubejs.registry.RegistryInfo'
-[16:25:34] [INFO] Loaded script startup_scripts:@recipes/prelude.js in 0.018 s
-[16:25:34] [INFO] Loaded script startup_scripts:@recipes/createaddition.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:@recipes/createdelightcore.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:@recipes/createdieselgenerators.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:@recipes/createmetallurgy.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:@recipes/create_bic_bit.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:@recipes/create_new_age.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:@recipes/festival_delicacies.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:@recipes/iceandfire.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:@recipes/ratatouille.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:@recipes/vintagedelight.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:@recipes/youkaishomecoming.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:attach_capability.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/ad_astra.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/ad_astra_giselle_addon.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/ae2.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/alexscaves.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/art_of_forging.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/bakeries.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/brewinandchewin.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/butchercraft.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/casualness_delight.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/corn_delight.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/cosmopolitan.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/crabbersdelight.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/create.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/createaddition.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/createcafe.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/createdeco.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/createdelight.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/createdelightcore.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/createdieselgenerators.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/createoreexcavation.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/createutilities.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/create_bic_bit.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/create_central_kitchen.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/create_confectionery.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/create_connected.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/create_deepfried.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/create_fantasizing.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/create_new_age.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/create_sa.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/expatternprovider.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/farmersdelight.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/farmersrespite.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/festival_delicacies.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/fruitsdelight.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/frycooks_delight.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/iceandfire.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/kinetic_pixel.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/kubejs.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/lightmanscurrency.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/luncheonmeatsdelight.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/megacells.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/minecraft.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/mynethersdelight.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/neapolitan.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/oceanic_delight.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/protection_pixel.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/ratatouille.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/refurbished_furniture.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/seasonals.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/tacz.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/tetra.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/torchmaster.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/trailandtales_delight.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/vintagedelight.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/vintageimprovements.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:creative_tab/youkaishomecoming.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:crop.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:custom/loot_data.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:custom/order/data.js in 0.002 s
-[16:25:34] [INFO] Loaded script startup_scripts:custom/order/event.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:custom/register_air_armors.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:custom/register_crushed_metal.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:custom/register_metal_dust.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:custom/sell_data.js in 0.001 s
-[16:25:34] [INFO] custom_portal.js#1: Loaded Java class 'net.kyrptonaught.customportalapi.api.CustomPortalBuilder'
-[16:25:34] [INFO] Loaded script startup_scripts:custom_portal.js in 0.007 s
-[16:25:34] [INFO] Loaded script startup_scripts:effectInWorkbench.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:forge_event.js in 0.004 s
-[16:25:34] [INFO] Loaded script startup_scripts:modifier_burntime.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:modifier_item.js in 0.003 s
-[16:25:34] [INFO] Loaded script startup_scripts:registery_mob_effect.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:registery_sound.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:registry_block.js in 0.0 s
-[16:25:34] [INFO] Loaded script startup_scripts:registry_fluid.js in 0.002 s
-[16:25:34] [INFO] Loaded script startup_scripts:registry_item.js in 0.003 s
-[16:25:34] [INFO] Loaded script startup_scripts:registry_machine.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:registry_scroll.js in 0.001 s
-[16:25:34] [INFO] Loaded script startup_scripts:special_spout.js in 0.001 s
-[16:25:34] [INFO] utils/tetra.js#1: Loaded Java class 'se.mickelus.tetra.items.modular.ModularItem'
-[16:25:34] [INFO] utils/tetra.js#2: Loaded Java class 'se.mickelus.tetra.effect.ItemEffect'
-[16:25:34] [INFO] Loaded script startup_scripts:utils/tetra.js in 0.005 s
-[16:25:34] [INFO] Loaded 92/92 KubeJS startup scripts in 1.835 s with 0 errors and 0 warnings
-[16:27:03] [INFO] effectInWorkbench.js#6: Loaded Java class 'se.mickelus.tetra.gui.stats.getter.StatFormat'
-[16:27:03] [INFO] effectInWorkbench.js#7: Loaded Java class 'se.mickelus.tetra.gui.stats.getter.StatGetterEffectEfficiency'
-[16:27:03] [INFO] effectInWorkbench.js#8: Loaded Java class 'se.mickelus.tetra.gui.stats.getter.TooltipGetterMultiValue'
-[16:27:03] [INFO] effectInWorkbench.js#9: Loaded Java class 'se.mickelus.tetra.blocks.workbench.gui.WorkbenchStatsGui'
-[16:27:03] [INFO] effectInWorkbench.js#10: Loaded Java class 'se.mickelus.tetra.gui.stats.StatsHelper'
-[16:27:03] [INFO] effectInWorkbench.js#11: Loaded Java class 'se.mickelus.tetra.gui.stats.getter.LabelGetterBasic'
-[16:27:03] [INFO] effectInWorkbench.js#12: Loaded Java class 'se.mickelus.tetra.gui.stats.getter.StatGetterEffectLevel'
-[16:27:03] [INFO] effectInWorkbench.js#13: Loaded Java class 'se.mickelus.tetra.gui.stats.getter.TooltipGetterInteger'
-[16:27:03] [INFO] effectInWorkbench.js#14: Loaded Java class 'se.mickelus.tetra.items.modular.impl.holo.gui.craft.HoloStatsGui'
-[16:27:03] [INFO] effectInWorkbench.js#15: Loaded Java class 'se.mickelus.tetra.gui.stats.bar.GuiStatBar'
+[18:17:10] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[18:17:10] [INIT] Loaded plugins:
+[18:17:10] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:17:10] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[18:17:10] [INIT] - com.sighs.generalfeedback.compat.kubejs.JSPlugin
+[18:17:10] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[18:17:10] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[18:17:10] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[18:17:10] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[18:17:10] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[18:17:10] [INIT] - com.lowdragmc.mbd2.integration.kubejs.MBDKubeJSPlugin
+[18:17:10] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[18:17:10] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[18:17:10] [INIT] - com.prunoideae.powerfuljs.forge.PowerfulJSPluginForge
+[18:17:10] [INIT] - com.almostreliable.morejs.Plugin
+[18:17:10] [INIT] - com.negodya1.kubejs.vintageimprovements.KubeJSVintagePlugin
+[18:17:10] [INIT] - com.oierbravo.create_mechanical_spawner.compat.kubejs.KubeJSCreateMechanicalSpawnerPlugin
+[18:17:10] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
+[18:17:10] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[18:17:10] [INIT] - com.probejs.ProbeJSPlugin
+[18:17:10] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[18:17:10] [INIT] - com.chen1335.renderjs.kubejs.RenderJSPlugin
+[18:17:10] [INIT] - fr.lucreeper74.createmetallurgy.compat.kubejs.CreateMetallurgyKJS
+[18:17:12] [INFO] custom/order/system.js#4: Loaded Java class 'com.tarinoita.solsweetpotato.tracking.FoodInstance'
+[18:17:13] [INFO] custom/order/system.js#5: Loaded Java class 'com.simibubi.create.content.logistics.box.PackageItem'
+[18:17:13] [INFO] custom/order/system.js#6: Loaded Java class 'io.github.lightman314.lightmanscurrency.common.traders.auction.tradedata.AuctionTradeData'
+[18:17:13] [INFO] custom/order/system.js#7: Loaded Java class 'net.mcreator.createstuffadditions.entity.BrassDroneEntity'
+[18:17:13] [INFO] custom/order/system.js#8: Loaded Java class 'de.cadentem.quality_food.util.QualityUtils'
+[18:17:13] [INFO] custom/order/system.js#9: Loaded Java class 'com.tarinoita.solsweetpotato.tracking.FoodList'
+[18:17:13] [INFO] custom/order/system.js#10: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.money.value.builtin.CoinValue'
+[18:17:13] [INFO] custom/order/system.js#11: Loaded Java class 'io.github.lightman314.lightmanscurrency.api.traders.TraderAPI'
+[18:17:13] [INFO] Loaded script startup_scripts:custom/order/system.js in 0.308 s
+[18:17:13] [INFO] @recipes/prelude.js#2: Loaded Java class 'dev.latvian.mods.kubejs.recipe.schema.RecipeSchema'
+[18:17:13] [INFO] @recipes/prelude.js#3: Loaded Java class 'dev.latvian.mods.kubejs.recipe.component.RecipeComponentBuilder'
+[18:17:13] [INFO] @recipes/prelude.js#4: Loaded Java class 'dev.latvian.mods.kubejs.registry.RegistryInfo'
+[18:17:13] [INFO] Loaded script startup_scripts:@recipes/prelude.js in 0.02 s
+[18:17:13] [INFO] Loaded script startup_scripts:@recipes/createaddition.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:@recipes/createdelightcore.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:@recipes/createdieselgenerators.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:@recipes/createmetallurgy.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:@recipes/create_bic_bit.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:@recipes/create_new_age.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:@recipes/festival_delicacies.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:@recipes/iceandfire.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:@recipes/ratatouille.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:@recipes/vintagedelight.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:@recipes/youkaishomecoming.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:attach_capability.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/ad_astra.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/ad_astra_giselle_addon.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/ae2.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/alexscaves.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/art_of_forging.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/bakeries.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/brewinandchewin.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/butchercraft.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/casualness_delight.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/corn_delight.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/cosmopolitan.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/crabbersdelight.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/create.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/createaddition.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/createcafe.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/createdeco.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/createdelight.js in 0.002 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/createdelightcore.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/createdieselgenerators.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/createoreexcavation.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/createutilities.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/create_bic_bit.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/create_central_kitchen.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/create_confectionery.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/create_connected.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/create_deepfried.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/create_fantasizing.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/create_new_age.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/create_sa.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/expatternprovider.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/farmersdelight.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/farmersrespite.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/festival_delicacies.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/fruitsdelight.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/frycooks_delight.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/iceandfire.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/kinetic_pixel.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/kubejs.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/lightmanscurrency.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/luncheonmeatsdelight.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/megacells.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/minecraft.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/mynethersdelight.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/neapolitan.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/oceanic_delight.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/protection_pixel.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/ratatouille.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/refurbished_furniture.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/seasonals.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/tacz.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/tetra.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/torchmaster.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/trailandtales_delight.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/vintagedelight.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/vintageimprovements.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:creative_tab/youkaishomecoming.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:crop.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:custom/loot_data.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:custom/order/data.js in 0.002 s
+[18:17:13] [INFO] Loaded script startup_scripts:custom/order/event.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:custom/register_air_armors.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:custom/register_crushed_metal.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:custom/register_metal_dust.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:custom/sell_data.js in 0.001 s
+[18:17:13] [INFO] custom_portal.js#1: Loaded Java class 'net.kyrptonaught.customportalapi.api.CustomPortalBuilder'
+[18:17:13] [INFO] Loaded script startup_scripts:custom_portal.js in 0.008 s
+[18:17:13] [INFO] Loaded script startup_scripts:effectInWorkbench.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:forge_event.js in 0.007 s
+[18:17:13] [INFO] Loaded script startup_scripts:modifier_burntime.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:modifier_item.js in 0.004 s
+[18:17:13] [INFO] Loaded script startup_scripts:registery_mob_effect.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:registery_sound.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:registry_block.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:registry_fluid.js in 0.002 s
+[18:17:13] [INFO] Loaded script startup_scripts:registry_item.js in 0.003 s
+[18:17:13] [INFO] Loaded script startup_scripts:registry_machine.js in 0.001 s
+[18:17:13] [INFO] Loaded script startup_scripts:registry_scroll.js in 0.0 s
+[18:17:13] [INFO] Loaded script startup_scripts:special_spout.js in 0.001 s
+[18:17:13] [INFO] utils/tetra.js#1: Loaded Java class 'se.mickelus.tetra.items.modular.ModularItem'
+[18:17:13] [INFO] utils/tetra.js#2: Loaded Java class 'se.mickelus.tetra.effect.ItemEffect'
+[18:17:13] [INFO] Loaded script startup_scripts:utils/tetra.js in 0.005 s
+[18:17:13] [INFO] Loaded 92/92 KubeJS startup scripts in 2.312 s with 0 errors and 0 warnings
+[18:19:04] [INFO] effectInWorkbench.js#6: Loaded Java class 'se.mickelus.tetra.gui.stats.getter.StatFormat'
+[18:19:04] [INFO] effectInWorkbench.js#7: Loaded Java class 'se.mickelus.tetra.gui.stats.getter.StatGetterEffectEfficiency'
+[18:19:04] [INFO] effectInWorkbench.js#8: Loaded Java class 'se.mickelus.tetra.gui.stats.getter.TooltipGetterMultiValue'
+[18:19:04] [INFO] effectInWorkbench.js#9: Loaded Java class 'se.mickelus.tetra.blocks.workbench.gui.WorkbenchStatsGui'
+[18:19:04] [INFO] effectInWorkbench.js#10: Loaded Java class 'se.mickelus.tetra.gui.stats.StatsHelper'
+[18:19:04] [INFO] effectInWorkbench.js#11: Loaded Java class 'se.mickelus.tetra.gui.stats.getter.LabelGetterBasic'
+[18:19:04] [INFO] effectInWorkbench.js#12: Loaded Java class 'se.mickelus.tetra.gui.stats.getter.StatGetterEffectLevel'
+[18:19:04] [INFO] effectInWorkbench.js#13: Loaded Java class 'se.mickelus.tetra.gui.stats.getter.TooltipGetterInteger'
+[18:19:04] [INFO] effectInWorkbench.js#14: Loaded Java class 'se.mickelus.tetra.items.modular.impl.holo.gui.craft.HoloStatsGui'
+[18:19:04] [INFO] effectInWorkbench.js#15: Loaded Java class 'se.mickelus.tetra.gui.stats.bar.GuiStatBar'

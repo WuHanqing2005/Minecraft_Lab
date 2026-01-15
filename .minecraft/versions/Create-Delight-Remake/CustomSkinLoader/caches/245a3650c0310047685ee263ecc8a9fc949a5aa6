@@ -1,0 +1,9 @@
+{
+  "id" : "bcff27554f314ad187bcce5c5917e399",
+  "name" : "daniel",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODQ2ODM0NDA2MywKICAicHJvZmlsZUlkIiA6ICJiY2ZmMjc1NTRmMzE0YWQxODdiY2NlNWM1OTE3ZTM5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYW5pZWwiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGI0MmE5NDFiZTk3MjBmOWFjODM5MjhhMzA3OWUxZDg1NWU0OGMxZjRmZThmNDI3MjEyNmU1NzkwYzhhNjBlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}
