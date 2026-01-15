@@ -1,0 +1,236 @@
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.26.1
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\CustomSkinLoader
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 17.0.16, Azul Systems, Inc.
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Azul Systems, Inc.
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.20.1
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Config File: D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\CustomSkinLoader\CustomSkinLoader.json
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GameProfile
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.26.1
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 36
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "GameProfile", "type": "GameProfile" }, { "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2026-01-15 18:35:29] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2026-01-15 18:35:29] [wuhanqing/INFO] [CustomSkinLoader Core]: Loading wuhanqing's profile.
+[2026-01-15 18:35:29] [wuhanqing/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'GameProfile'.
+[2026-01-15 18:35:29] [wuhanqing/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'Mojang'.
+[2026-01-15 18:35:29] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-01-15 18:35:29] [wuhanqing/INFO] [CustomSkinLoader Core]: Payload: ["wuhanqing"]
+[2026-01-15 18:35:30] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-01-15 18:35:30] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-01-15 18:35:30] [wuhanqing/INFO] [CustomSkinLoader Core]: Profile not found.(wuhanqing's profile not found.)
+[2026-01-15 18:35:30] [wuhanqing/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'LittleSkin'.
+[2026-01-15 18:35:30] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/wuhanqing.json'.
+[2026-01-15 18:35:30] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-01-15 18:35:30] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\CustomSkinLoader\caches\234f1f3a3ac663aec9794ce46df233a479e43d60' , Expire: 1768469822)
+[2026-01-15 18:35:30] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-01-15 18:35:30] [wuhanqing/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-01-15 18:35:30] [wuhanqing/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'BlessingSkin'.
+[2026-01-15 18:35:30] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/wuhanqing.json'.
+[2026-01-15 18:35:31] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-01-15 18:35:31] [wuhanqing/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-01-15 18:35:31] [wuhanqing/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'ElyBy'.
+[2026-01-15 18:35:31] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/wuhanqing'.
+[2026-01-15 18:35:31] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 0 , Path: 'D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\CustomSkinLoader\caches\566f047fcc15be3e2601fa84d2eb1a86f32775f6' , Expire: 1768471970)
+[2026-01-15 18:35:31] [wuhanqing/INFO] [CustomSkinLoader Core]: Try to load from cache 'D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\CustomSkinLoader\caches\566f047fcc15be3e2601fa84d2eb1a86f32775f6'.
+[2026-01-15 18:35:31] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-01-15 18:35:31] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Content: 
+[2026-01-15 18:35:31] [wuhanqing/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-01-15 18:35:31] [wuhanqing/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'SkinMe'.
+[2026-01-15 18:35:31] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/wuhanqing.json'.
+[2026-01-15 18:35:31] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/wuhanqing.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2026-01-15 18:35:31] [wuhanqing/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-01-15 18:35:31] [wuhanqing/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'TLauncher'.
+[2026-01-15 18:35:31] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/wuhanqing'.
+[2026-01-15 18:35:31] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-01-15 18:35:31] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\CustomSkinLoader\caches\3202725536baa47db3e1761fe65e2263299c7730' , Expire: 1768469823)
+[2026-01-15 18:35:31] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-01-15 18:35:31] [wuhanqing/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-01-15 18:35:31] [wuhanqing/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'GlitchlessGames'.
+[2026-01-15 18:35:31] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=wuhanqing'.
+[2026-01-15 18:35:33] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-01-15 18:35:33] [wuhanqing/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-01-15 18:35:33] [wuhanqing/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'LocalSkin'.
+[2026-01-15 18:35:33] [wuhanqing/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-01-15 18:35:33] [wuhanqing/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
+[2026-01-15 18:35:33] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-01-15 18:35:33] [wuhanqing/INFO] [CustomSkinLoader Core]: Payload: ["wuhanqing"]
+[2026-01-15 18:35:33] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-01-15 18:35:33] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-01-15 18:35:33] [wuhanqing/INFO] [CustomSkinLoader Core]: Profile url not found.
+[2026-01-15 18:35:33] [wuhanqing/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
+[2026-01-15 18:35:33] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/wuhanqing.png'.
+[2026-01-15 18:35:34] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-01-15 18:35:34] [wuhanqing/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-01-15 18:35:34] [wuhanqing/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
+[2026-01-15 18:35:34] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-01-15 18:35:34] [wuhanqing/INFO] [CustomSkinLoader Core]: Payload: ["wuhanqing"]
+[2026-01-15 18:35:35] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-01-15 18:35:35] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-01-15 18:35:35] [wuhanqing/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-01-15 18:35:35] [wuhanqing/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
+[2026-01-15 18:35:35] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/wuhanqing.png'.
+[2026-01-15 18:35:36] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-01-15 18:35:36] [wuhanqing/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-01-15 18:35:36] [wuhanqing/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2026-01-15 18:35:36] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-01-15 18:35:36] [wuhanqing/INFO] [CustomSkinLoader Core]: Payload: ["wuhanqing"]
+[2026-01-15 18:35:36] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-01-15 18:35:36] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-01-15 18:35:36] [wuhanqing/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-01-15 18:35:36] [wuhanqing/INFO] [CustomSkinLoader Core]: wuhanqing's profile not found in load list.
+[2026-01-15 19:34:17] [wuhanqing/INFO] [CustomSkinLoader Core]: Loading wuhanqing's profile.
+[2026-01-15 19:34:17] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: Loading wuhanqing_admin's profile.
+[2026-01-15 19:34:17] [wuhanqing/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'GameProfile'.
+[2026-01-15 19:34:17] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'GameProfile'.
+[2026-01-15 19:34:17] [wuhanqing/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'Mojang'.
+[2026-01-15 19:34:17] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'Mojang'.
+[2026-01-15 19:34:17] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-01-15 19:34:17] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-01-15 19:34:17] [wuhanqing/INFO] [CustomSkinLoader Core]: Payload: ["wuhanqing"]
+[2026-01-15 19:34:17] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: Payload: ["wuhanqing_admin"]
+[2026-01-15 19:34:18] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-01-15 19:34:18] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-01-15 19:34:18] [wuhanqing/INFO] [CustomSkinLoader Core]: Profile not found.(wuhanqing's profile not found.)
+[2026-01-15 19:34:18] [wuhanqing/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'LittleSkin'.
+[2026-01-15 19:34:18] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/wuhanqing.json'.
+[2026-01-15 19:34:18] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-01-15 19:34:18] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-01-15 19:34:18] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: Profile not found.(wuhanqing_admin's profile not found.)
+[2026-01-15 19:34:18] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'LittleSkin'.
+[2026-01-15 19:34:18] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/wuhanqing_admin.json'.
+[2026-01-15 19:34:18] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-01-15 19:34:18] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\CustomSkinLoader\caches\234f1f3a3ac663aec9794ce46df233a479e43d60' , Expire: 1768473348)
+[2026-01-15 19:34:18] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-01-15 19:34:18] [wuhanqing/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-01-15 19:34:18] [wuhanqing/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'BlessingSkin'.
+[2026-01-15 19:34:18] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/wuhanqing.json'.
+[2026-01-15 19:34:18] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-01-15 19:34:18] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\CustomSkinLoader\caches\0ccdc0e11964a75cecb24ee8306024846aa2c9f8' , Expire: 1768473348)
+[2026-01-15 19:34:18] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-01-15 19:34:18] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-01-15 19:34:18] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'BlessingSkin'.
+[2026-01-15 19:34:18] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/wuhanqing_admin.json'.
+[2026-01-15 19:34:18] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-01-15 19:34:18] [wuhanqing/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-01-15 19:34:18] [wuhanqing/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'ElyBy'.
+[2026-01-15 19:34:18] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/wuhanqing'.
+[2026-01-15 19:34:19] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-01-15 19:34:19] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-01-15 19:34:19] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'ElyBy'.
+[2026-01-15 19:34:19] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/wuhanqing_admin'.
+[2026-01-15 19:34:19] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 204 , Content Length: -1)
+[2026-01-15 19:34:19] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 204 , Content Length: -1)
+[2026-01-15 19:34:19] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 0 , Path: 'D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\CustomSkinLoader\caches\566f047fcc15be3e2601fa84d2eb1a86f32775f6' , Expire: 1768476859)
+[2026-01-15 19:34:19] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Content: 
+[2026-01-15 19:34:19] [wuhanqing/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-01-15 19:34:19] [wuhanqing/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'SkinMe'.
+[2026-01-15 19:34:19] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/wuhanqing.json'.
+[2026-01-15 19:34:19] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 0 , Path: 'D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\CustomSkinLoader\caches\a6798e9dc8cf6b1125cd63ae0561fc66a44403e7' , Expire: 1768476860)
+[2026-01-15 19:34:19] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Content: 
+[2026-01-15 19:34:19] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-01-15 19:34:19] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'SkinMe'.
+[2026-01-15 19:34:19] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/wuhanqing_admin.json'.
+[2026-01-15 19:34:20] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/wuhanqing.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2026-01-15 19:34:20] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/wuhanqing_admin.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2026-01-15 19:34:20] [wuhanqing/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-01-15 19:34:20] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-01-15 19:34:20] [wuhanqing/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'TLauncher'.
+[2026-01-15 19:34:20] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'TLauncher'.
+[2026-01-15 19:34:20] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/wuhanqing'.
+[2026-01-15 19:34:20] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/wuhanqing_admin'.
+[2026-01-15 19:34:20] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-01-15 19:34:20] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\CustomSkinLoader\caches\3202725536baa47db3e1761fe65e2263299c7730' , Expire: 1768473355)
+[2026-01-15 19:34:20] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-01-15 19:34:20] [wuhanqing/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-01-15 19:34:20] [wuhanqing/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'GlitchlessGames'.
+[2026-01-15 19:34:20] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=wuhanqing'.
+[2026-01-15 19:34:20] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-01-15 19:34:20] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'D:\Program Files\Minecraft_Lab\.minecraft\versions\Create-Delight-Remake\CustomSkinLoader\caches\378fd5bf9af375c2e42edbf9bfc3e1d3deaab619' , Expire: 1768473350)
+[2026-01-15 19:34:20] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-01-15 19:34:20] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-01-15 19:34:20] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'GlitchlessGames'.
+[2026-01-15 19:34:20] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=wuhanqing_admin'.
+[2026-01-15 19:34:21] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-01-15 19:34:21] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-01-15 19:34:21] [wuhanqing/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-01-15 19:34:21] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-01-15 19:34:21] [wuhanqing/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'LocalSkin'.
+[2026-01-15 19:34:21] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'LocalSkin'.
+[2026-01-15 19:34:21] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-01-15 19:34:21] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
+[2026-01-15 19:34:21] [wuhanqing/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-01-15 19:34:21] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-01-15 19:34:21] [wuhanqing/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
+[2026-01-15 19:34:21] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-01-15 19:34:21] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: Payload: ["wuhanqing_admin"]
+[2026-01-15 19:34:21] [wuhanqing/INFO] [CustomSkinLoader Core]: Payload: ["wuhanqing"]
+[2026-01-15 19:34:22] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-01-15 19:34:22] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-01-15 19:34:22] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: Profile url not found.
+[2026-01-15 19:34:22] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
+[2026-01-15 19:34:22] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/wuhanqing_admin.png'.
+[2026-01-15 19:34:22] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-01-15 19:34:22] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-01-15 19:34:22] [wuhanqing/INFO] [CustomSkinLoader Core]: Profile url not found.
+[2026-01-15 19:34:22] [wuhanqing/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
+[2026-01-15 19:34:22] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/wuhanqing.png'.
+[2026-01-15 19:34:23] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-01-15 19:34:23] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-01-15 19:34:23] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
+[2026-01-15 19:34:23] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-01-15 19:34:23] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: Payload: ["wuhanqing_admin"]
+[2026-01-15 19:34:23] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-01-15 19:34:23] [wuhanqing/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-01-15 19:34:23] [wuhanqing/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
+[2026-01-15 19:34:23] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-01-15 19:34:23] [wuhanqing/INFO] [CustomSkinLoader Core]: Payload: ["wuhanqing"]
+[2026-01-15 19:34:23] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-01-15 19:34:23] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-01-15 19:34:23] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-01-15 19:34:23] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
+[2026-01-15 19:34:23] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/wuhanqing_admin.png'.
+[2026-01-15 19:34:23] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-01-15 19:34:23] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-01-15 19:34:23] [wuhanqing/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-01-15 19:34:23] [wuhanqing/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
+[2026-01-15 19:34:23] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/wuhanqing.png'.
+[2026-01-15 19:34:24] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-01-15 19:34:24] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-01-15 19:34:24] [wuhanqing/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-01-15 19:34:24] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-01-15 19:34:24] [wuhanqing/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2026-01-15 19:34:24] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2026-01-15 19:34:24] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-01-15 19:34:24] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-01-15 19:34:24] [wuhanqing/INFO] [CustomSkinLoader Core]: Payload: ["wuhanqing"]
+[2026-01-15 19:34:24] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: Payload: ["wuhanqing_admin"]
+[2026-01-15 19:34:24] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-01-15 19:34:24] [wuhanqing/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-01-15 19:34:24] [wuhanqing/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-01-15 19:34:24] [wuhanqing/INFO] [CustomSkinLoader Core]: wuhanqing's profile not found in load list.
+[2026-01-15 19:34:25] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2026-01-15 19:34:25] [wuhanqing_admin/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2026-01-15 19:34:25] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-01-15 19:34:25] [wuhanqing_admin/INFO] [CustomSkinLoader Core]: wuhanqing_admin's profile not found in load list.
