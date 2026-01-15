@@ -23,6 +23,7 @@ logger = logging.getLogger(__name__)
 # Define port and public IP
 PORT = 20000
 PUBLIC_IP = "218.55.238.15"
+LOCAL_IP = "192.168.35.195"
 
 # Global variables for status tracking
 server_status = {

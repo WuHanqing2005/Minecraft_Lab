@@ -169,7 +169,7 @@
 [custom_spell]
 	#Max duration of custom spell allowed
 	#Range: 60 ~ 1000
-	customSpellMaxDuration = 1
+	customSpellMaxDuration = 60
 	#Ring Spell: Max number of bullet allowed per item cost
 	#Range: 1 ~ 1024
 	ringSpellDanmakuPerItemCost = 32
